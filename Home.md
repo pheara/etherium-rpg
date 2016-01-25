@@ -6,7 +6,7 @@ Europe/Austria/Vienna. If you want to pick up the setting for your own
 campaign, feel free to either also use add to this wiki or fork it, as
 is most suited for your group. :)
 
-# A Short History
+### A Short History
 
 The story is set in a what-if deviation of our world, in which a global
 catastrophe occurred around 1848 that altered the course of history. Severe
