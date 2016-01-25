@@ -19,7 +19,7 @@ south-eastern Europe ) were essentially rendered uninhabitable.
 
 However this new material also lead to a burst of technological advancement,
 both due to the high energy density of the material as well as it's
-"inspiration-enhancing" effects on being exposed to it for prolonged
+"inspiration-enhancing" effects of being exposed to it for prolonged
 periods of time or even stronger, when imbibing it. These technological jumps
 also was responsible for some critical shifts in power-balances.
 
