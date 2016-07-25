@@ -2,7 +2,7 @@
 * Rang: **Kadett-Korporal**
 * Spieler: **bobschi**
 * Ressourcen: **2**
-* Refresh: **3**
+* Refresh: **10**
 
 ## Aspekte
 
