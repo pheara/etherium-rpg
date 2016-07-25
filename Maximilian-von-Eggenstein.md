@@ -22,16 +22,16 @@ Bundesbruder von [[Hubert von Wallner]]
 
 ## Fertigkeiten
 
-4: Conviction
-3: Alertness, Endurance
-2: Athletics, Weapons, Guns
+4: Conviction  
+3: Alertness, Endurance  
+2: Athletics, Weapons, Guns  
 1: Driving, Stealth
 
 ## Damage & Consequences
 
-1:
-2:
-3: x
+1:  
+2:  
+3: x  
 4: x
 
 ## Beziehungen zu Charakteren aus der Party
