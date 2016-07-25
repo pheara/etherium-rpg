@@ -69,13 +69,11 @@ In action:
 -   Whoever uncovers/creates an aspect, gets a free tag on it
 -   May be compelled / invoked (see Fate Point section)
 
-<span id="Stunts_and_Powers" class="mw-headline">Stunts and Powers</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=10 "Edit Stunts and Powers section")</span>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Stunts & Powers
 
 See further down
 
-<span id="Action.21" class="mw-headline">Action!</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=11 "Edit Action! section")</span>
-==================================================================================================================================================================================================================================================================================
+## Action!
 
 Combined skills: ą1 if secondary is higher/lower
 
@@ -83,8 +81,7 @@ Combined skills: ą1 if secondary is higher/lower
 -   Complements: only +1 possible
 -   Restricts: only -1 possible
 
-<span id="Non-Conflict" class="mw-headline">Non-Conflict</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=12 "Edit Non-Conflict section")</span>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Non-conflict
 
 -   Simple Actions: roll vs. difficulty; shifts for reducing time,
     increasing subtlety, increasing quality
@@ -110,8 +107,7 @@ Combined skills: ą1 if secondary is higher/lower
     -   Success: aspect is there
     -   Failure: not there or character falsely believes its there
 
-<span id="Conflicts" class="mw-headline">Conflicts</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=13 "Edit Conflicts section")</span>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Conflicts
 
 1.  Frame the scene attern.
     -   Set up zones & scene aspects
@@ -139,9 +135,9 @@ Combined skills: ą1 if secondary is higher/lower
     -   Loser always gets one FP per consequence taken in the conflict
     -   Reset stress track (unless next conflict follows)
 
-### <span id="Actions" class="mw-headline">Actions</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=14 "Edit Actions section")</span>
+### Actions
 
-#### <span id="Attack:" class="mw-headline">Attack:</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=15 "Edit Attack: section")</span>
+#### Attack:
 
 Roll AttSkill vs. Defense
 
@@ -158,7 +154,7 @@ Roll AttSkill vs. Defense
 -   Special effect attacks: secondary effect: make rolls vs. weapon
     rating (i.e. shock-stick)
 
-#### <span id="Maneuver:" class="mw-headline">Maneuver:</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=16 "Edit Maneuver: section")</span>
+#### Maneuver:
 
 Success places or removes a temporary aspect on/from target or scene
 
@@ -169,7 +165,7 @@ Success places or removes a temporary aspect on/from target or scene
 -   I.e. Blinding, Disarming, Cover, Aiming, Painting Target, Called
     Shots
 
-#### <span id="Block" class="mw-headline">Block</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=17 "Edit Block section")</span>
+#### BlocK:
 
 -   Vs. some action
 -   1 person, all actions OR 1 type of action and multiple people
@@ -184,7 +180,7 @@ Success places or removes a temporary aspect on/from target or scene
     -   Next round, auto: 1 shift hit OR 1 zone movement OR 1 maneuver;
         then roll grapple at -1
 
-#### <span id="Sprint" class="mw-headline">Sprint</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=18 "Edit Sprint section")</span>
+#### Sprint:
 
 -   Roll vs. border (i.e. Athlethics), shifts for additional zones
     -   Open: 0
@@ -193,7 +189,7 @@ Success places or removes a temporary aspect on/from target or scene
     -   High walls/barbed wire: 3
 -   Or: supplemental move (see below)
 
-#### <span id="Supplemental_Actions" class="mw-headline">Supplemental Actions</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=19 "Edit Supplemental Actions section")</span>
+#### Supplemental Actions:
 
 -   Part of other action
     -   Supplemental move (1 zone, no borders)
@@ -202,13 +198,13 @@ Success places or removes a temporary aspect on/from target or scene
 -   No die roll
 -   -1 to main action
 
-#### <span id="Overflow:" class="mw-headline">Overflow:</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=20 "Edit Overflow: section")</span>
+#### Overflow:
 
 -   Any left-over shifts -&gt; 1 free non-offensive action at that
     "roll"
 -   Must be in line with primary action
 
-### <span id="Stress" class="mw-headline">Stress</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=21 "Edit Stress section")</span>
+### Stress
 
 Cuts, bruises, loss of composure/peace of mind, minor trauma
 
