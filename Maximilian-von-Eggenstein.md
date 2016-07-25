@@ -1,6 +1,8 @@
 * Name: **Maximilian von Eggenstein**
 * Rang: **Kadett-Korporal**
 * Spieler: **bobschi**
+* Ressourcen: **2**
+* Refresh: **3**
 
 ## Aspekte
 
