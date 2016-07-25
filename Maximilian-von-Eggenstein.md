@@ -1,7 +1,6 @@
 * Name: **Maximilian von Eggenstein**
 * Rang: **Kadett-Korporal**
 * Spieler: **bobschi**
-* Ressourcen: **2**
 * Refresh: **10**
 * Alter: **22**
 * Größe: **187cm**
@@ -22,10 +21,10 @@ Bundesbruder von [[Hubert von Wallner]]
 
 ## Fertigkeiten
 
-4: Conviction  
+4: Discipline  
 3: Alertness, Endurance  
 2: Athletics, Weapons, Guns  
-1: Driving, Stealth, Discipline
+1: Driving, Stealth, Resources
 
 ## Damage & Consequences
 
