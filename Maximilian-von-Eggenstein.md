@@ -21,11 +21,11 @@ Bundesbruder von [[Hubert von Wallner]]
 
 ## Fertigkeiten
 
-5: Discipline
-4: Alertness, Endurance  
-3: Athletics, Weapons  
-2: Guns, Conviction, Resources
-1: Driving, Stealth
+5: 
+4:   
+3: 
+2: 
+1: 
 
 ## Damage & Consequences
 
