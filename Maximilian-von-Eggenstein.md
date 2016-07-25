@@ -3,6 +3,8 @@
 * Spieler: **bobschi**
 * Ressourcen: **2**
 * Refresh: **10**
+* Alter: **22**
+* Größe: **187cm**
 
 ## Aspekte
 

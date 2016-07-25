@@ -56,8 +56,7 @@ Spent to:
 
 -   Skill Pyramid: | skills@lv(n) | &gt;= | skills@lv(n + 1) |
 
-<span id="Aspects" class="mw-headline">Aspects</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=9 "Edit Aspects section")</span>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Aspects 
 
 character generation:
 
