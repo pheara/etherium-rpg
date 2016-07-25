@@ -34,8 +34,6 @@ Bundesbruder von [[Hubert von Wallner]]
 3: x
 4: x
 
-Mild consequence: Zucken
-
 ## Beziehungen zu Charakteren aus der Party
 
 * Cousin von [[Roland von Eggenstein]]
