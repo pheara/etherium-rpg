@@ -1,5 +1,5 @@
 * Name: **Rudolf Kern**
-* Spieler: **alex**
+* Spieler: **Alex**
 * Refresh: **7**
 * Alter: **27**
 * Größe: **185cm**
@@ -8,7 +8,7 @@
 
 * Konzept: **Finsterer Detektiv**
 * Dilemma: **ist geheim**
-* **Veteran der Gulaschkanoniergruppe**
+* **Veteran der Gulaschkanoniertruppe**
 * **Spielt das Erpressungsspiel**
 * **pragmatisches Gewissen**
 * **Aufmerksamkeitsdefizit … Oh, eine Leiche!**
