@@ -22,6 +22,11 @@ Bundesbruder von [[Hubert von Wallner]]
 
 ## Fertigkeiten
 
+4:
+3: Alertness, Conviction, Athletics
+2: 
+1:
+
 ## Beziehungen zu Charakteren aus der Party
 
 * Cousin von [[Roland von Eggenstein]]
