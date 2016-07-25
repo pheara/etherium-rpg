@@ -25,7 +25,7 @@ Bundesbruder von [[Hubert von Wallner]]
 4: Conviction  
 3: Alertness, Endurance  
 2: Athletics, Weapons, Guns  
-1: Driving, Stealth
+1: Driving, Stealth, Discipline
 
 ## Damage & Consequences
 
