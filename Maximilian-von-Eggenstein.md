@@ -43,4 +43,4 @@ Bundesbruder von [[Hubert von Wallner]]
 
 ## Inventar
 
-* Etriumrevolver (von Soldaten im Waldkampf bei Burg Greifenstein bekommen) + 10 Schuss
+* Etheriumrevolver (von Soldaten im Waldkampf bei Burg Greifenstein bekommen) + 8 Schuss
