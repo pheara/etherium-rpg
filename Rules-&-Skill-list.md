@@ -1,35 +1,30 @@
-<span id="Rolling" class="mw-headline">Rolling</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=1 "Edit Rolling section")</span>
-===============================================================================================================================================================================================================================================================================
+## Rolling
 
-<span id="Fudge_Dices" class="mw-headline">Fudge Dices</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=2 "Edit Fudge Dices section")</span>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Fudge Dices
 
 4x(d3-1 --&gt; -1, 0, +1)
 
-<span id="The_Ladder" class="mw-headline">The Ladder</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=3 "Edit The Ladder section")</span>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## The Ladder
 
-  Effort   Name
-  -------- -----------
-  +8       Legendary
-  +7       Epic
-  +6       Fantastic
-  +5       Superb
-  +4       Great
-  +3       Good
-  +2       Fair
-  +1       Average
-  +0       Mediocre
-  -1       Poor
-  -2       Terrible
+| Effort | Name      |
+|--------|-----------|
+| +8     | Legendary |
+| +7     | Epic      |
+| +6     | Fantastic |
+| +5     | Superb    |
+| +4     | Great     |
+| +3     | Good      |
+| +2     | Fair      |
+| +1     | Average   |
+| +0     | Mediocre  |
+| -1     | Poor      |
+| -2     | Terrible  |
 
 effort - difficulty = effect (in shifts, always positive)
 
-<span id="Fate_Points_.28FPs.29" class="mw-headline">Fate Points (FPs)</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=4 "Edit Fate Points (FPs) section")</span>
-=================================================================================================================================================================================================================================================================================================================
+## Fate Points 
 
-<span id="Usage" class="mw-headline">Usage</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=5 "Edit Usage section")</span>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Usage
 
 Spent to:
 
@@ -47,9 +42,7 @@ Spent to:
         who lives here / ...
 -   Use certain stunts/powers
 
-<span id="Source" class="mw-headline">Source</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=6 "Edit Source section")</span>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+### Source 
 -   Refresh: usually between session and during significant downtime
     returns to refresh level if below
 -   Aspect compelled:
@@ -57,11 +50,9 @@ Spent to:
         pay a fate point.
     -   Bidding up to 3 fate points.
 
-<span id="Characters" class="mw-headline">Characters</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=7 "Edit Characters section")</span>
-========================================================================================================================================================================================================================================================================================
+## Characters 
 
-<span id="Skills" class="mw-headline">Skills</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=8 "Edit Skills section")</span>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Skills
 
 -   Skill Pyramid: | skills@lv(n) | &gt;= | skills@lv(n + 1) |
 
