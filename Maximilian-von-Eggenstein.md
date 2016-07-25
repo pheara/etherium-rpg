@@ -27,4 +27,4 @@ Bundesbruder von [[Hubert von Wallner]]
 * Cousin von [[Roland von Eggenstein]]
 * Bundesbruder von [[Hubert von Wallner]]
 * Kennt [[Kamilla von Tan]] von der bedauerlichen Geschichte
-* Adjutant von Leutnant [[$Vorname von Friedenstahl]]
+* Adjutant von Leutnant [[Leopold von Friedenstahl]]
