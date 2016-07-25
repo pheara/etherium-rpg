@@ -21,10 +21,11 @@ Bundesbruder von [[Hubert von Wallner]]
 
 ## Fertigkeiten
 
-4: Discipline  
-3: Alertness, Endurance  
-2: Athletics, Weapons, Guns  
-1: Driving, Stealth, Resources
+5: Discipline
+4: Alertness, Endurance  
+3: Athletics, Weapons  
+2: Guns, Conviction, Resources
+1: Driving, Stealth
 
 ## Damage & Consequences
 
@@ -42,4 +43,3 @@ Bundesbruder von [[Hubert von Wallner]]
 
 ## Inventar
 
-* Etheriumrevolver (von Soldaten im Waldkampf bei Burg Greifenstein bekommen) + 8 Schuss
