@@ -225,14 +225,12 @@ After attack:
 
 -   Are lasting effects
 -   Heal only after some cause (medical/psycho-therapeuthical treatment)
--   Levels:
 
-| Lv       | Stress | Lasts after recovery starts             | Examples                                         
-|----------|--------|-----------------------------------------|---------------------------------------------------
-| Lv       | Stress | Lasts after recovery starts             | Examples
-| mild     | 2      | 1 scene                                 | bruised hand,winded,distracted,flustered
-| moderate | 4      | end of next session                     | belly slash,exhausted,drunk,twisted ankle
-| severe   | 6      | max{end of next scenario, 2-3 sessions} | broken leg,crippling shame,trauma-induced phobia
+| Lv       | Stress | Lasts after recovery starts             | Examples                                         |
+|----------|--------|-----------------------------------------|--------------------------------------------------|
+| mild     | 2      | 1 scene                                 | bruised hand,winded,distracted,flustered         |
+| moderate | 4      | end of next session                     | belly slash,exhausted,drunk,twisted ankle        |
+| severe   | 6      | max{end of next scenario, 2-3 sessions} | broken leg,crippling shame,trauma-induced phobia |
 
 -   Extreme consequences:
     -   Plot devices
@@ -280,36 +278,35 @@ minor-moderate-severe.
 
 Exotic Drugs: Endurance vs. Potency, if victim fails -&gt; place aspect
 
-<span id="Skills_2" class="mw-headline">Skills</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=26 "Edit Skills section")</span>
-===============================================================================================================================================================================================================================================================================
+## Skills
 
-  Page@DF   Skill                         Trappings
-  --------- ----------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  121       Alertness                     Avoiding Surprise, Combat Initiative, Passive Awareness
-  121       Athletics                     Climbing, Dodging, Falling, Jumping, Sprinting, Other Physical Actions
-  123       Burglary                      Casing, Infiltration, Lockpicking
-  123       Contacts                      Gathering Information, Getting the Tip-Off, Knowing People, Rumors
-  124       Conviction\*                  Acts of Faith, Mental Fortitude
-  125       Craftsmanship / Engineering   Breaking, Building, Fixing
-  126       Deceit                        Cat and Mouse (riposte, social attack) OR False Face Forward (underestimation as social defense), Disguise, Distraction and Misdirection, Falsehood and Deception
-  127       Discipline                    Concentration, Emotional Control, Mental Defense
-  128       Driving                       Chases, One Hand on the Wheel, Other Vehicles, Street Knowledge and Navigation
-  129       Empathy                       Reading People, A Shoulder to Cry On, Social Defense, Social Initiative
-  130       Endurance\*                   Long-Term Action, Physical Fortitude
-  130       Fists                         Brawling, Close-Combat Defense
-  131       Guns                          Aiming, Gun Knowledge, Gunplay, Other Projectile Weapons
-  132       Intimidation                  The Brush-Off, Interrogation, Provocation, Social Attacks, Threats
-  133       Investigation                 Eavesdropping, Examination, Surveillance
-  135       Might                         Breaking Things, Exerting Force, Lifting Things, Wrestling
-  134       Mysteriesš                    Sixth Sense, Mesmerism, Fortune Telling
-  136       Performance / Art             Art Appreciation / as Knwš, Composition, Creative Communication, Playing to an Audience, Influencing the Scenes Moodš, Satire and Eulogyš, (Art-)Forgeryš
-  138       Presence\*                    Charisma, Command, Reputation, Social Fortitude
-  139       Rapport                       Chit-Chat, Closing Down, First Impressions, Opening Up, Social Defense
-  140       Resources                     Buying Things, Equipment, Lifestyle, Money Talks, Workspaces
-  142       Scholarship                   Answers, Declaring Minor Details, Exposition and Knowledge Dumping, Languages, Medical Attention, Research and Lab Work, The Truth (planting disinfo)š, Science!š
-  143       Stealth                       Ambush, Hiding, Shadowing, Skulking
-  144       Survival                      Animal Handling, Camouflage, Riding, Scavenging, Tracking
-  135       Weapons                       Distance Weaponry, Melee Combat, Melee Defense, Weapon Knowledge
+| Page@DF | Skill                       | Trappings                                                                                                                                                         |
+|---------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 121     | Alertness                   | Avoiding Surprise, Combat Initiative, Passive Awareness                                                                                                           |
+| 121     | Athletics                   | Climbing, Dodging, Falling, Jumping, Sprinting, Other Physical Actions                                                                                            |
+| 123     | Burglary                    | Casing, Infiltration, Lockpicking                                                                                                                                 |
+| 123     | Contacts                    | Gathering Information, Getting the Tip-Off, Knowing People, Rumors                                                                                                |
+| 124     | Conviction\*                | Acts of Faith, Mental Fortitude                                                                                                                                   |
+| 125     | Craftsmanship / Engineering | Breaking, Building, Fixing                                                                                                                                        |
+| 126     | Deceit                      | Cat and Mouse (riposte, social attack) OR False Face Forward (underestimation as social defense), Disguise, Distraction and Misdirection, Falsehood and Deception |
+| 127     | Discipline                  | Concentration, Emotional Control, Mental Defense                                                                                                                  |
+| 128     | Driving                     | Chases, One Hand on the Wheel, Other Vehicles, Street Knowledge and Navigation                                                                                    |
+| 129     | Empathy                     | Reading People, A Shoulder to Cry On, Social Defense, Social Initiative                                                                                           |
+| 130     | Endurance\*                 | Long-Term Action, Physical Fortitude                                                                                                                              |
+| 130     | Fists                       | Brawling, Close-Combat Defense                                                                                                                                    |
+| 131     | Guns                        | Aiming, Gun Knowledge, Gunplay, Other Projectile Weapons                                                                                                          |
+| 132     | Intimidation                | The Brush-Off, Interrogation, Provocation, Social Attacks, Threats                                                                                                |
+| 133     | Investigation               | Eavesdropping, Examination, Surveillance                                                                                                                          |
+| 135     | Might                       | Breaking Things, Exerting Force, Lifting Things, Wrestling                                                                                                        |
+| 134     | Mysteriesš                  | Sixth Sense, Mesmerism, Fortune Telling                                                                                                                           |
+| 136     | Performance / Art           | Art Appreciation / as Knw, Composition, Creative Communication, Playing to an Audience, Influencing the Scenes Mood, Satire and Eulogy, (Art-)Forgery             |
+| 138     | Presence\*                  | Charisma, Command, Reputation, Social Fortitude                                                                                                                   |
+| 139     | Rapport                     | Chit-Chat, Closing Down, First Impressions, Opening Up, Social Defense                                                                                            | 
+| 140     | Resources                   | Buying Things, Equipment, Lifestyle, Money Talks, Workspaces                                                                                                      |
+| 142     | Scholarship                 | Answers, Declaring Minor Details, Exposition and Knowledge Dumping, Languages, Medical Attention, Research and Lab Work, The Truth (planting disinfo), Science!   |
+| 143     | Stealth                     | Ambush, Hiding, Shadowing, Skulking                                                                                                                               |
+| 144     | Survival                    | Animal Handling, Camouflage, Riding, Scavenging, Tracking                                                                                                         |
+| 135     | Weapons                     | Distance Weaponry, Melee Combat, Melee Defense, Weapon Knowledge                                                                                                  |
 
 -   These skills affect stress tracks =&gt; min(2 + ceil(lv/2), 4); +1
     mild consequence per 2 levels above Good)
@@ -337,8 +334,7 @@ subtle kind of magic (less fireballs, more charms and figments).
 
 -   Arcane Research, Common Ritual, Mystic Perception
 
-<span id="Stunts" class="mw-headline">Stunts</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=27 "Edit Stunts section")</span>
-=============================================================================================================================================================================================================================================================================
+## Stunts
 
 References:
 
@@ -363,35 +359,22 @@ Mechanics
         -   sthg. more powerful if fate point spent
     -   Names matter, so get something evocative ;)
 
-<span id="Mad_Science" class="mw-headline">Mad Science</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=28 "Edit Mad Science section")</span>
-============================================================================================================================================================================================================================================================================================
+## Mad Science
 
-[Gadgets and Gizmos @
-SotC](http://www.faterpg.com/dl/sotc-srd.html#gadgets-and-gizmos){.external
-.text .exitstitial}
+[Gadgets and Gizmos @SotC](http://www.faterpg.com/dl/sotc-srd.html#gadgets-and-gizmos)
 
 Stunts: All Related to Science & Academics, especially:
 
--   [Theory in
-    Practice](http://www.faterpg.com/dl/sotc-srd.html#theory-in-practice-science){.external
-    .text .exitstitial}
--   [Scientific
-    Invention](http://www.faterpg.com/dl/sotc-srd.html#scientific-invention-science){.external
-    .text .exitstitial}
--   [Weird
-    Science](http://www.faterpg.com/dl/sotc-srd.html#weird-science-science){.external
-    .text .exitstitial}
--   [Mad
-    Science](http://www.faterpg.com/dl/sotc-srd.html#mad-science-science){.external
-    .text .exitstitial}
+-   [Theory in Practice](http://www.faterpg.com/dl/sotc-srd.html#theory-in-practice-science)
+-   [Scientific Invention](http://www.faterpg.com/dl/sotc-srd.html#scientific-invention-science)
+-   [Weird Science](http://www.faterpg.com/dl/sotc-srd.html#weird-science-science)
+-   [Mad Science](http://www.faterpg.com/dl/sotc-srd.html#mad-science-science)
 -   Personal Gadgets
 -   Universal Gadgets
 
-<span id="Miscellaneous" class="mw-headline">Miscellaneous</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=29 "Edit Miscellaneous section")</span>
-==================================================================================================================================================================================================================================================================================================
+## Miscellanious
 
-<span id="Time" class="mw-headline">Time</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=30 "Edit Time section")</span>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Time
 
 The steps:
 
@@ -423,13 +406,11 @@ The steps:
 
 Take time: +1 on action per step
 
-<span id="Falling" class="mw-headline">Falling</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=31 "Edit Falling section")</span>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Falling
 
 stress = height in feet / 2 Athlethics -&gt; +1 armor per 2 shifts
 
-<span id="Lifting_.26_Breaking" class="mw-headline">Lifting & Breaking</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=32 "Edit Lifting & Breaking section")</span>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Lifting & Breaking
 
 roll
 
@@ -485,25 +466,23 @@ Legendary+1 (+9)
 
 A midsized car
 
-<span id="Buying_things" class="mw-headline">Buying things</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=33 "Edit Buying things section")</span>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Buying things
 
-  Price       Amount
-  ----------- --------------------
-  Terrible    &lt; \$10
-  Poor        &lt; \$50
-  Mediocre    &lt; \$250
-  Average     &lt; \$500
-  Fair        &lt; \$1,000
-  Good        &lt; \$5,000
-  Great       &lt; \$10,000
-  Superb      &lt; \$100,000
-  Fantastic   &lt; \$1 million
-  Legendary   &lt; \$10 million
-  Epic        Money is no object
+| Price      | Amount             |
+| -----------|--------------------|
+| Terrible   | &lt; \$10          |
+| Poor       | &lt; \$50          |
+| Mediocre   | &lt; \$250         |
+| Average    | &lt; \$500         |
+| Fair       | &lt; \$1,000       |
+| Good       | &lt; \$5,000       |
+| Great      | &lt; \$10,000      |
+| Superb     | &lt; \$100,000     |
+| Fantastic  | &lt; \$1 million   |
+| Legendary  | &lt; \$10 million  |
+| Epic       | Money is no object |
 
-<span id="Glossar" class="mw-headline">Glossar</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=34 "Edit Glossar section")</span>
-================================================================================================================================================================================================================================================================================
+## Glossary
 
 -   FP: Fate Point
 -   DoS: Degree of Severity of consequence (mild, moderate, severe)
