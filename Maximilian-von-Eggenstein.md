@@ -16,6 +16,10 @@ Sohn aus adeligem Hause, Adelssohn, Sohn reicher Eltern
 * Nebenaspekt: **Burschenschafter**
 Bundesbruder von [[Hubert von Wallner]]
 
+## Stunts
+
+## Fertigkeiten
+
 ## Beziehungen zu Charakteren aus der Party
 
 * Cousin von [[Roland von Eggenstein]]
