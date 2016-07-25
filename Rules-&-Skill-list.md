@@ -221,18 +221,18 @@ After attack:
     -   Opponent defines fate (though details left to loser) &lt;-- own
         death scenes
 
-#### <span id="Consequences" class="mw-headline">Consequences</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=22 "Edit Consequences section")</span>
+#### Consequences
 
 -   Are lasting effects
 -   Heal only after some cause (medical/psycho-therapeuthical treatment)
 -   Levels:
 
-  Lv         Stress   Lasts after recovery starts               Examples
-  ---------- -------- ----------------------------------------- --------------------------------------------------
-  Lv         Stress   Lasts after recovery starts               Examples
-  mild       2        1 scene                                   bruised hand,winded,distracted,flustered
-  moderate   4        end of next session                       belly slash,exhausted,drunk,twisted ankle
-  severe     6        max{end of next scenario, 2-3 sessions}   broken leg,crippling shame,trauma-induced phobia
+| Lv       | Stress | Lasts after recovery starts             | Examples                                         
+|----------|--------|-----------------------------------------|---------------------------------------------------
+| Lv       | Stress | Lasts after recovery starts             | Examples
+| mild     | 2      | 1 scene                                 | bruised hand,winded,distracted,flustered
+| moderate | 4      | end of next session                     | belly slash,exhausted,drunk,twisted ankle
+| severe   | 6      | max{end of next scenario, 2-3 sessions} | broken leg,crippling shame,trauma-induced phobia
 
 -   Extreme consequences:
     -   Plot devices
@@ -242,7 +242,7 @@ After attack:
     -   Permanently replaces one of your aspects
     -   No healing speed up
 
-### <span id="Concessions" class="mw-headline">Concessions</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=23 "Edit Concessions section")</span>
+### Concessions
 
 -   Give up conflict
 -   Before knock-out roll
@@ -253,37 +253,31 @@ After attack:
         aspect
 -   Must be accepted by group
 
-### <span id="Weapons_.26_Armor" class="mw-headline">Weapons & Armor</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=24 "Edit Weapons & Armor section")</span>
+### Weapons & Armor
 
 Add bonus shifts if hit succeeded
 
-  Type                                     Dmg
-  ---------------------------------------- -----
-  Pocket weapons,knives                    1
-  Swords,pistols                           2
-  2-handed,hvy. pistols,rifles,automatic   3
-  Artillery,explosives                     4
+| Type                                   | Dmg |
+|----------------------------------------|-----|
+| Pocket weapons,knives                  | 1   |
+| Swords,pistols                         | 2   |
+| 2-handed,hvy. pistols,rifles,automatic | 3   |
+| Artillery,explosives                   | 4   |
 
-Armor scaled to weapons they protect from. Tends to lag behind by 1
+Armor scaled to weapons they protect from. Tends to lag behind by 1.
 
-\
-
-### <span id="Poisons" class="mw-headline"> Poisons </span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=25 "Edit Poisons section")</span>
+### Poisons
 
 see SotC
 
-\
 Fast Damaging Poison: Potency (Mediocre - Superb) vs Endurance at start
 of round(s) till stopped (Treatment or spin (&gt;=3 shifts) for
 defender)
-
-\
 
 Slow Damaging Poison: as for fast poison, once per scene. Shift for
 poison: victim gets consequence. Per three such escalate along
 minor-moderate-severe.
 
-\
 Exotic Drugs: Endurance vs. Potency, if victim fails -&gt; place aspect
 
 <span id="Skills_2" class="mw-headline">Skills</span><span class="editsection">[![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D){.sprite .edit-pencil}Edit](/wiki/Rules_Summary?action=edit&section=26 "Edit Skills section")</span>

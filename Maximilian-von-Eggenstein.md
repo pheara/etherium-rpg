@@ -18,14 +18,23 @@ Sohn aus adeligem Hause, Adelssohn, Sohn reicher Eltern
 * Nebenaspekt: **Burschenschafter**
 Bundesbruder von [[Hubert von Wallner]]
 
-## Stunts
+## Stunt
 
 ## Fertigkeiten
 
-4:
-3: Alertness, Conviction, Athletics
-2: 
+4: Conviction
+3: Alertness, Endurance
+2: Athletics, Stealth, Guns
+1: Driving
+
+## Damage & Consequences
+
 1:
+2:
+3: x
+4: x
+
+Mild consequence: Zucken
 
 ## Beziehungen zu Charakteren aus der Party
 
@@ -33,3 +42,7 @@ Bundesbruder von [[Hubert von Wallner]]
 * Bundesbruder von [[Hubert von Wallner]]
 * Kennt [[Kamilla von Tan]] von der bedauerlichen Geschichte
 * Adjutant von Leutnant [[Leopold von Friedenstahl]]
+
+## Inventar
+
+* Etriumrevolver (von Soldaten im Waldkampf bei Burg Greifenstein bekommen) + 10 Schuss
