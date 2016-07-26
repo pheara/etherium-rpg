@@ -2,7 +2,7 @@
 * Alter von ca. 10: k. u. k. Militär-Unterrealschule (4 Jahre)
 * Alter von 14: k. u. k. Militär-Oberrealschule (3 Jahre)
 
-** Offizierslaufbahn bei genügendem Erfolg**
+**Offizierslaufbahn bei genügendem Erfolg**
 * Kadettenschule (4 Jahre bei Infanterie, Artillerie und Pionieren bzw. 3 Jahre bei Kavallerie)  
 Entweder in den ersten Jahrgang nach der Unterrealschule oder in den dritten nach der Oberrealschule.  
 Abschluss: Fähnrich mit Beförderung zum Leutnant nach zwei Dienstjahren.
