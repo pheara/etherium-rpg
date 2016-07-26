@@ -2,7 +2,7 @@
 * Rang: **Leutnant**
 * Spieler: **frede**
 * Refresh: **4**
-* Alter: **28**
+* Alter: **24**
 * Größe: **185cm**
 
 ## Aspekte
