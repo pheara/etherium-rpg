@@ -35,9 +35,9 @@ Arm und obdachlos auf der Strasse aufgewachsen bis ich vom Kaiser in die Militä
 
 ## Damage & Consequences
 
-Physical 4
-Mental 3
-Social 3
+Physical: 4
+Mental: 3
+Social: 3
 
 Mild:  
 Moderate:  
@@ -51,6 +51,4 @@ Extreme: x (rechtes Auge verloren)
 
 ## Inventar
 
-Scharfschützengewehr
-Pistole
-Ethriumsichere Gasmaske
+Scharfschützengewehr, Pistole, Ethriumsichere Gasmaske
