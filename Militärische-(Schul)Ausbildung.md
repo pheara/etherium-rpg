@@ -11,7 +11,7 @@ Abschluss: Fähnrich mit Beförderung zum Leutnant nach zwei Dienstjahren.
 * Alter von 17: k. u. k. Militärakademie (3 Jahre)  
 Abschluss: Leutnant
 * Alter von ca. 20: k. u. k. Kriegsschule (3 Jahre)  
-Alternativ: Zwei Jahre Dienst und unter 26 Jahre. Eine Aufnahmeprüfung vom Niveau des Militärakademieabschlusses musste bestanden werden. 
+Alternativ: Offizier mit zwei Jahren Dienst und unter 26 Jahre. Eine Aufnahmeprüfung vom Niveau des Militärakademieabschlusses musste bestanden werden. 
 Abschluss: Oberleutnant  
 Anschließend Zuweisung zum Generalstab für 2-3 Jahre. Bei Bewährung Beförderung zum Hauptmann.
 
