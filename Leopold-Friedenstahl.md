@@ -28,16 +28,16 @@ Arm und obdachlos auf der Strasse aufgewachsen bis ich vom Kaiser in die Militä
 ## Fertigkeiten (or/stc)
 
 5: 
-4: Guns
-3: Athletics, Endurance, Stealth
-2: Alertness, Conviction, Discipline, Weapons
-1: Burglary, Driving, Intimidation, Investigation, Might, Resources
+4: Guns  
+3: Athletics, Endurance, Stealth  
+2: Alertness, Conviction, Discipline, Weapons  
+1: Burglary, Driving, Intimidation, Investigation, Might, Resources  
 
 ## Damage & Consequences
 
-Physical: 4
-Mental: 3
-Social: 3
+Physical: 4  
+Mental: 3  
+Social: 3  
 
 Mild:  
 Moderate:  
