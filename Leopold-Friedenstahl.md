@@ -15,7 +15,7 @@
 (Subject to change?! Input welcome)
 * Nebenaspekt: **Auf dem rechten Auge blind**  
 Rechtes Auge beim Showdown mit Morpheus auf Burg Greifenstein verloren.
-* Nebenaspekt/Background: **Strassenkind**
+* Nebenaspekt/Background: **Strassenkind**  
 Arm und obdachlos auf der Strasse aufgewachsen bis ich vom Kaiser in die Militärakademie gezogen wurde.
 
 ## Stunts (old rules/subject to change)
@@ -51,4 +51,6 @@ Extreme: x (rechtes Auge verloren)
 
 ## Inventar
 
-Scharfschützengewehr, Pistole, Ethriumsichere Gasmaske
+Scharfschützengewehr  
+Pistole  
+Ethriumsichere Gasmaske
