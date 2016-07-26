@@ -53,4 +53,5 @@ Extreme: x (rechtes Auge verloren)
 
 Scharfschützengewehr  
 Pistole  
-Ethriumsichere Gasmaske
+Ethriumsichere Gasmaske  
+Offizierssäbel
