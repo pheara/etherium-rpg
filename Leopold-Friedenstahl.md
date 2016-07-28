@@ -28,8 +28,8 @@ Lieblingsworte meines "Mentors" in der Ausbildung.
 ## Stunts (old rules/subject to change)
 * Corner of my Eye (Alterness) +2 shifts für passive Wahrnehmung
 * Human Spider (Athletics) climbing difficulty -2
-* Person of Conviction (Conviction) Conviction definiert social stress und nicht presence
-* Pin Them Down (Guns) Aiming Aspket kann nicht entfernt werden. +1 border difficulty für das Ziel
+* Indomitable. (Will) +2 to defend against Provoke attacks specifically related to intimidation and fear.  
+* Pin Them Down (Shoot) Aiming Aspekt kann nicht entfernt werden. +1 border difficulty für das Ziel.
 * Swift and Silent (Stealth) bis zu -2 difficulty für schnelles Schleichen
 
 ## Fertigkeiten 
