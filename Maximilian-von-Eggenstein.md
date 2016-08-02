@@ -1,8 +1,8 @@
 * Name: **Maximilian von Eggenstein**
-* Rang: **Leutnant**
+* Rang: **Fähnrich**
 * Spieler: **bobschi**
 * Refresh: **10**
-* Alter: **17**
+* Alter: **18**
 * Größe: **192cm**
 
 ## Aspekte
@@ -43,3 +43,6 @@ Bundesbruder von [[Hubert von Wallner]]
 
 ## Inventar
 
+## Background
+
+Nach der Unterstufe die Kadettenschule besucht, und vor kurzem als Fähnrich abgeschlossen.
