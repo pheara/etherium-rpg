@@ -3,7 +3,7 @@
 * Spieler: **bobschi**
 * Refresh: **10**
 * Alter: **17**
-* Größe: **187cm**
+* Größe: **192cm**
 
 ## Aspekte
 
