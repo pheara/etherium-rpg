@@ -1,8 +1,8 @@
 * Name: **Maximilian von Eggenstein**
-* Rang: **Kadett-Korporal**
+* Rang: **Leutnant**
 * Spieler: **bobschi**
 * Refresh: **10**
-* Alter: **22**
+* Alter: **17**
 * Größe: **187cm**
 
 ## Aspekte
