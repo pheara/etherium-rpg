@@ -39,7 +39,7 @@ Bundesbruder von [[Hubert von Wallner]]
 * Cousin von [[Roland von Eggenstein]]
 * Bundesbruder von [[Hubert von Wallner]]
 * Kennt [[Kamilla van Tan]] von der bedauerlichen Geschichte
-* Adjutant von Leutnant [[Leopold von Friedenstahl]]
+* Adjutant von Leutnant [[Leopold Friedenstahl]]
 
 ## Inventar
 
