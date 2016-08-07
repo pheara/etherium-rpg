@@ -48,8 +48,8 @@
 ## Stunts
 
 * Cold Read
-    * kann den emotionalen Stand einer Person auf einen Blick bestimmen
+    * Kann den emotionalen Stand einer Person auf einen Blick bestimmen. Also Empathy verwenden um Advantages zu bauen ohne mit der Person tatsächlich zu reden.
 * Scene of the Crime
-    * wenn an einem Ort schon investigated wurde, kann der Char einen Investigate Wurf machen um sofort zu bestimmen, was sich seit dem letzten Mal geändert hat
+    * Wenn an einem Ort schon investigated wurde, kann der Char einen Investigate Wurf machen um sofort zu bestimmen, was sich seit dem letzten Mal geändert hat. Normalerweise dauert das durchsuchen länger.
 * Uncanny Hunch
-    * Einmal pro Szene raten. Wenn das stimmt, kann der Char Investigate statt einem anderen Skill werfen.
+    * Einmal pro Szene raten. Wenn das geratene stimmt, kann der Char Investigate statt einem anderen Skill werfen.
