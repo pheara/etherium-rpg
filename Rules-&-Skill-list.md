@@ -1,3 +1,5 @@
+**this is the old version, for new one see <http://fate-srd.com/>** außer: Lore ist Scholarship, Crafts ist Engineering
+
 ## Rolling
 
 ### Fudge Dices

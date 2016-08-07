@@ -1,6 +1,6 @@
 This is the wiki for the pen-and-paper-rpg story/setting :3
 
-As the currently running story is centered around of Vienna, most of this
+As the currently running story is centered around Vienna in 1921, most of this
 wiki will describe the situation and characters of ethrium-world
 Europe/Austria/Vienna. If you want to pick up the setting for your own
 campaign, feel free to either also use add to this wiki or fork it, as
