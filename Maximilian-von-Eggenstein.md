@@ -10,9 +10,9 @@
 
 * Konzept: **Fünf Minuten vor der Zeit ist des Soldaten Pünktlichkeit**  
 im Endeffekt eine beschissene Variante von Captain Carrot
-* Beste Fertigkeit: **Einfach gestrickt und geradlinig**
+* Beste Fertigkeit: **Einfach gestrickt und geradlinig**  
 Durch Drill zu einem ausgezeichneten Kämpfer geworden
-* Dilemma: **Blauäugig**
+* Dilemma: **Blauäugig**  
 Naiv und leicht manipulierbar, noch sehr beeindruckbar, vor Allem von starken Männern
 * Nebenaspekt: **Vati! Vati!**  
 Sohn aus adeligem Hause, Adelssohn, Sohn reicher Eltern.  
@@ -21,14 +21,14 @@ Sucht in [[Rudolf Kern]] und [[Leopold Friedenstahl]] eine Vaterfigur, weil der 
 Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 * Nebenaspekt: **[[Gemeinsames Geheimnis mit Hr. Kern|Maximilian von Eggenstein Geheimnisse]]**
 
-## Stunt
-
 ## Fertigkeiten
 
 4: [Fight](http://fate-srd.com/fate-core/Fight) [Shoot](http://fate-srd.com/fate-core/Shoot)  
 3: [Physique](http://fate-srd.com/fate-core/Physique) [Notice](http://fate-srd.com/fate-core/Notice) [Resources](http://fate-srd.com/fate-core/Resources)  
 2: [Athletics](http://fate-srd.com/fate-core/Athletics) [Drive](http://fate-srd.com/fate-core/Drive) [Will](http://fate-srd.com/fate-core/Will)   
 1: [Contacts](http://fate-srd.com/fate-core/Contacts) [Stealth](http://fate-srd.com/fate-core/Stealth) [Scholarship](http://fate-srd.com/fate-core/Lore) [Engineering](http://fate-srd.com/fate-core/Crafts)
+
+## Stunts
 
 ## Damage & Consequences
 
