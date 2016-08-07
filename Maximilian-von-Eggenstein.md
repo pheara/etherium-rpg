@@ -47,6 +47,12 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 
 ## Inventar
 
+![](https://de.wikipedia.org/wiki/Tornister)
+
+1 [Tornister](https://de.wikipedia.org/wiki/Tornister)  
+1 Pistole  
+1 Säbel
+
 ## Background
 
 Nach der Unterstufe die Kadettenschule besucht, und vor kurzem als Fähnrich abgeschlossen.
