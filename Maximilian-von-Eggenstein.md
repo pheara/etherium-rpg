@@ -27,7 +27,7 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 
 5: 
 4:   
-3: 
+3: Notice
 2: 
 1: 
 
@@ -35,8 +35,8 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 
 1:  
 2:  
-3: x  
-4: x
+3:   
+4: 
 
 ## Beziehungen zu Charakteren aus der Party
 
@@ -47,7 +47,8 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 
 ## Inventar
 
-![](https://de.wikipedia.org/wiki/Tornister)
+![](https://upload.wikimedia.org/wikipedia/commons/9/90/Jag_1915_bisspingen.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/9/90/Jag_1915_bisspingen.jpg)
 
 1 [Tornister](https://de.wikipedia.org/wiki/Tornister)  
 1 Pistole  
