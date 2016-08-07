@@ -28,7 +28,7 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 4: [Fight](http://fate-srd.com/fate-core/Fight) [Shoot](http://fate-srd.com/fate-core/Shoot)  
 3: [Physique](http://fate-srd.com/fate-core/Physique) [Notice](http://fate-srd.com/fate-core/Notice) [Resources](http://fate-srd.com/fate-core/Resources)  
 2: [Athletics](http://fate-srd.com/fate-core/Athletics) [Drive](http://fate-srd.com/fate-core/Drive) [Will](http://fate-srd.com/fate-core/Will)   
-1: [Contacts](http://fate-srd.com/fate-core/Contacts) [Stealth](http://fate-srd.com/fate-core/Stealth) [Lore](http://fate-srd.com/fate-core/Lore) [Crafts](http://fate-srd.com/fate-core/Crafts)
+1: [Contacts](http://fate-srd.com/fate-core/Contacts) [Stealth](http://fate-srd.com/fate-core/Stealth) [Scholarship](http://fate-srd.com/fate-core/Lore) [Engineering](http://fate-srd.com/fate-core/Crafts)
 
 ## Damage & Consequences
 
