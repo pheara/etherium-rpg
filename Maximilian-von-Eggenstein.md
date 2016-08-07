@@ -47,9 +47,9 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 
 ## Inventar
 
-![](https://upload.wikimedia.org/wikipedia/commons/9/90/Jag_1915_bisspingen.jpg)
-![](https://www.dorotheum.com/39H150504_139_83176_11/Bild/Säbel-für-Offiziere-der-k.-u.-k.-Kavallerie,.jpg)
-![](https://upload.wikimedia.org/wikipedia/commons/c/c4/Steyr_Hahn_M1912.JPG)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Jag_1915_bisspingen.jpg" width="20%" />
+<img src="https://www.dorotheum.com/39H150504_139_83176_11/Bild/Säbel-für-Offiziere-der-k.-u.-k.-Kavallerie,.jpg" width="20%" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Steyr_Hahn_M1912.JPG" width="20%" />
 
 1 [Tornister](https://de.wikipedia.org/wiki/Tornister)  
 1 Pistole  
