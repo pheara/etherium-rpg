@@ -26,11 +26,11 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 
 ## Fertigkeiten
 
-5:  
-4: [Fight](http://fate-srd.com/fate-core/Fight)   
-3: [Shoot](http://fate-srd.com/fate-core/Shoot) [Notice](http://fate-srd.com/fate-core/Notice) [Resources](http://fate-srd.com/fate-core/Resources)  
+
+4: [Fight](http://fate-srd.com/fate-core/Fight) [Shoot](http://fate-srd.com/fate-core/Shoot)  
+3: [Physique](http://fate-srd.com/fate-core/Physique) [Notice](http://fate-srd.com/fate-core/Notice) [Resources](http://fate-srd.com/fate-core/Resources)  
 2: [Athletics](http://fate-srd.com/fate-core/Athletics) [Drive](http://fate-srd.com/fate-core/Drive) [Will](http://fate-srd.com/fate-core/Will) [Physique](http://fate-srd.com/fate-core/Will)  
-1: [Burglary](http://fate-srd.com/fate-core/Burglary) [Contacts](http://fate-srd.com/fate-core/Contacts) [Stealth](http://fate-srd.com/fate-core/Stealth) [Lore](http://fate-srd.com/fate-core/Lore) [Rapport](http://fate-srd.com/fate-core/Rapport)
+1: [Contacts](http://fate-srd.com/fate-core/Contacts) [Stealth](http://fate-srd.com/fate-core/Stealth) [Lore](http://fate-srd.com/fate-core/Lore)
 
 ## Damage & Consequences
 
