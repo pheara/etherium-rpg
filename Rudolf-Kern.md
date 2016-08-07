@@ -7,12 +7,18 @@
 ## Aspekte
 
 * Konzept: **Finsterer Detektiv**
-* Dilemma: **ist geheim**
+* Dilemma: **Dunkles Geheimnis**
 * **Veteran der Gulaschkanoniertruppe**
-* **Spielt das Erpressungsspiel**
-* **pragmatisches Gewissen**
+  Hat sich angeboten, Eltern im Wirtshaus und so. Der Versorgungstrupp wurde aber irgendwann angegriffen, woraufhin Kern das Militär verlassen hat.
 * **Aufmerksamkeitsdefizit … Oh, eine Leiche!**
+  Schon öfter Mordfälle gelöst.
+* **Euer verantwortungsloser Ethriummissbrauch hat Bernhard getötet!**
+  Kern's Bruder von Wissenschaftlerin als Kollateralschaden getötet. Ein Experiment mit einer Wettermaschine hat eine Lawine ausgelöst während Bernd wandern war. Hat auch das benachbarte Dorf im Schnee versenkt. Da die Verantwortliche (Maria Elisabeth von Habsburg) in der Thronfolge ist wurde ihre involviertheit vertuscht, Kern hat es aufgedeckt, aber die Schuldige ist unantastbar.
+  Adel ist kein Freibrief?
+* **Spielt das Erpressungsspiel**
+  Hat Maximilian geholfen, seine jüdische Geliebte zu verstecken und die Spuren zu verwischen. Seit er bemerkt hat, dass ihm das einen sehr nützlichen Hebel verschafft, versucht er auch Geheimnisse anderer Adliger zu kennen.
 * **"Freunde" an ungewöhnlichen Orten**
+  Milieu, Prostituierte und so weiter. Noch keine Geschichte.
 
 ## Skills
 
