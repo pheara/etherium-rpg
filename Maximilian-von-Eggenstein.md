@@ -46,14 +46,12 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 
 ## Inventar
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Jag_1915_bisspingen.jpg" width="20%" />
-<img src="https://www.dorotheum.com/39H150504_139_83176_11/Bild/Säbel-für-Offiziere-der-k.-u.-k.-Kavallerie,.jpg" width="20%" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Steyr_Hahn_M1912.JPG" width="20%" />
+Ausrüstungsliste von [Wikipedia](https://de.wikipedia.org/wiki/Militärische_Ausrüstung_der_Infanterie_im_Ersten_Weltkrieg#.C3.96sterreich-Ungarn)
 
-1 [Tornister](https://de.wikipedia.org/wiki/Tornister)  
-1 Pistole  
-1 Säbel  
-1 Gewehr  
+1 Felltornister M1906  
+1 Pistole Steyr M1912  
+1 Mannschaftssäbel M1904  
+1 Gewehr Mannlicher M1895 + Bajonett M1895  
 1 ABC-Schutzmaske für Friedenstahl  
 1 Paar schwere Überschuhe für Friedenstahl  
 1 Paar schwere Kautschukhandschuhe für Friedenstahl  
