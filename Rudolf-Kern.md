@@ -10,7 +10,7 @@
 * Dilemma: **Dunkles Geheimnis**
 * **Veteran der Gulaschkanoniertruppe**
 
-  Hat sich angeboten, Eltern im Wirtshaus und so. Der Versorgungstrupp wurde aber irgendwann angegriffen, woraufhin Kern das Militär verlassen hat.
+  Hat sich angeboten, Eltern im Wirtshaus und so. Der Versorgungstrupp wurde aber irgendwann angegriffen, woraufhin Kern das Militär verlassen hat. Kern hat eine Beinwunde davon getragen, die aber schon verheilt ist.
 
 * **Aufmerksamkeitsdefizit … Oh, eine Leiche!**
 
