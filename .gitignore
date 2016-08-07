@@ -2,3 +2,4 @@ wip.wiki.*.plist.example
 .*.sh.example
 .*.sh
 *.swp
+local.config.rb
