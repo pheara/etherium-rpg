@@ -19,8 +19,7 @@ Sohn aus adeligem Hause, Adelssohn, Sohn reicher Eltern.
 Sucht in [[Rudolf Kern]] und [[Leopold Friedenstahl]] eine Vaterfigur, weil der eigene Vater so gut wie nie daheim war, und wenn, dann distanziert
 * Nebenaspekt: **Vorzeige-Teuetone**  
 Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
-* Nebenaspekt: **Dein blondes Haar, Susannah**  
-[[Rudolf Kern]] hat mir geholfen, meine Geliebte Susannah aus Wien und in Sicherheit zu schaffen, als ich entdecken musste, dass sie eine Jüdin ist!
+* Nebenaspekt: **Gemeinsames Geheimnis mit Hr. Kern**
 
 ## Stunt
 
