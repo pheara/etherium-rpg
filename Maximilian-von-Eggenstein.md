@@ -16,7 +16,7 @@ Naiv und leicht manipulierbar, noch sehr beeindruckbar, vor Allem von starken MÃ
 * Nebenaspekt: **Vati! Vati!**  
 Sohn aus adeligem Hause, Adelssohn, Sohn reicher Eltern.  
 Sucht in [[Rudolf Kern]] und [[Leopold Friedenstahl]] eine Vaterfigur, weil der eigene Vater so gut wie nie daheim war, und wenn, dann distanziert
-* Nebenaspekt: **Vorzeige-Teuetone**
+* Nebenaspekt: **Vorzeige-Teuetone**  
 Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 
 ## Stunt
