@@ -19,7 +19,7 @@ Sohn aus adeligem Hause, Adelssohn, Sohn reicher Eltern.
 Sucht in [[Rudolf Kern]] und [[Leopold Friedenstahl]] eine Vaterfigur, weil der eigene Vater so gut wie nie daheim war, und wenn, dann distanziert
 * Nebenaspekt: **Vorzeige-Teuetone**  
 Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
-* Nebenaspekt: **[[https://github.com/m0ru/etherium-rpg/wiki/Maximilian-von-Eggenstein-Geheimnisse#dein-blondes-haar-susannah|Gemeinsames Geheimnis mit Hr. Kern]]**
+* Nebenaspekt: **[[Gemeinsames Geheimnis mit Hr. Kern|Maximilian von Eggenstein Geheimnisse]]**
 
 ## Stunt
 
