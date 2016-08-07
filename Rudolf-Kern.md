@@ -20,6 +20,8 @@
 
   Kern's Bruder von Wissenschaftlerin als Kollateralschaden getötet. Ein Experiment mit einer Wettermaschine hat eine Lawine ausgelöst während Bernd wandern war. Hat auch das benachbarte Dorf im Schnee versenkt. Da die Verantwortliche (Maria Elisabeth von Habsburg) in der Thronfolge ist wurde ihre involviertheit vertuscht, Kern hat es aufgedeckt, aber die Schuldige ist unantastbar.
 
+  Friedenstahl war in niedrigem Rang dort als Wachposten stationiert und hat das beobachtet. Er wollte Kern helfen, konnte aber nichts ausrichten.
+
   Adel ist kein Freibrief?
 
 * **Spielt das Erpressungsspiel**
