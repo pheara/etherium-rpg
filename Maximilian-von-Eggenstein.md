@@ -1,4 +1,5 @@
 * Name: **Maximilian von Eggenstein**
+* Burschenname: **Teutonix**, Mitglied der *a.B. Teutonia*
 * Rang: **Fähnrich**
 * Spieler: **bobschi**
 * Refresh: **10**
@@ -59,3 +60,9 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 ## Background
 
 Nach der Unterstufe die Kadettenschule besucht, und vor kurzem als Fähnrich abgeschlossen.
+
+## Spielinformationen
+
+### 2016-08-07 Session
+
+* Name von Wallners geheimem Treffen: Gustav oder in Coleur *Vercingetorix*
