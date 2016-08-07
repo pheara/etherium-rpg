@@ -3,6 +3,7 @@
 * Refresh: **7**
 * Alter: **27**
 * Größe: **185cm**
+* Sprachen: Deutsch, Französisch, Tschechisch
 
 ## Aspekte
 
