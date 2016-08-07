@@ -54,7 +54,7 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 
 1 [Tornister](https://de.wikipedia.org/wiki/Tornister)  
 1 Pistole  
-1 Säbel
+1 Säbel  
 1 Paar schwere Kautschukhandschuhe für Friedenstahl
 
 ## Background
