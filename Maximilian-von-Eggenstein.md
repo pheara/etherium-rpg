@@ -25,11 +25,11 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 
 ## Fertigkeiten
 
-5: Fight
-4: Physique Shoot 
-3: Notice Drive Resources
-2: Athletics Stealth Will Crafts
-1: Burglary Contacts Emnpathy Lore Rapport
+5:  
+4: Fight   
+3: Shoot Notice Resources
+2: Athletics Drive Will Physique
+1: Burglary Contacts Stealth Lore Rapport
 
 ## Damage & Consequences
 
