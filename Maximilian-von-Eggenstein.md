@@ -25,7 +25,6 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 
 ## Fertigkeiten
 
-
 4: [Fight](http://fate-srd.com/fate-core/Fight) [Shoot](http://fate-srd.com/fate-core/Shoot)  
 3: [Physique](http://fate-srd.com/fate-core/Physique) [Notice](http://fate-srd.com/fate-core/Notice) [Resources](http://fate-srd.com/fate-core/Resources)  
 2: [Athletics](http://fate-srd.com/fate-core/Athletics) [Drive](http://fate-srd.com/fate-core/Drive) [Will](http://fate-srd.com/fate-core/Will)   
@@ -54,7 +53,10 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 1 [Tornister](https://de.wikipedia.org/wiki/Tornister)  
 1 Pistole  
 1 Säbel  
-1 Paar schwere Kautschukhandschuhe für Friedenstahl
+1 Gewehr  
+1 ABC-Schutzmaske für Friedenstahl  
+1 Paar schwere Überschuhe für Friedenstahl  
+1 Paar schwere Kautschukhandschuhe für Friedenstahl  
 
 ## Background
 
