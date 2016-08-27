@@ -22,7 +22,7 @@ Ursprungsaspekt: Scharfschützen related (one shot, one kill, o.Ä.)
 Nach dem der Kaiser und das Amt mir mein Leben ermöglichen, liegt es mir mich mit meinen Fähigkeiten erkenntlich zu zeigen.  
 * Aspekt: **Ordnung, Sauberkeit und Disziplin**  
 Lieblingsworte meines "Mentors" in der Ausbildung.  
-* Aspekt: **In einem gesundem Körper lebt ein gesunder Geist**  
+* Aspekt: **Im Namen der Vaters, des Sohnes und des heiligen Kaisers**  
 (Subject to change?! Input welcome) 
 
 ## Stunts (old rules/subject to change)
