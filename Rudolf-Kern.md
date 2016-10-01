@@ -37,7 +37,7 @@
 
 * **+4:** Investigate
 * **+3:** Notice, Empathy, Provoke
-* **+2:** Scholarship, Deceive, Will, Contacts
+* **+2:** Scholarship (Forensik + Medizin), Deceive, Will, Contacts
 * **+1:** Shoot, Drive, Physique, Rapport, Resources, Stealth
 
 ## Stress and Consequences
