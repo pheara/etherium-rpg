@@ -52,6 +52,7 @@ Ausrüstungsliste von [Wikipedia](https://de.wikipedia.org/wiki/Militärische_Au
 1 Pistole Steyr M1912  
 1 Mannschaftssäbel M1904  
 1 Gewehr Mannlicher M1895 + Bajonett M1895  
+1 ABC-Schutzmaske für mich selbst
 1 ABC-Schutzmaske für Friedenstahl  
 1 Paar schwere Überschuhe für Friedenstahl  
 1 Paar schwere Kautschukhandschuhe für Friedenstahl  
@@ -65,3 +66,7 @@ Nach der Unterstufe die Kadettenschule besucht, und vor kurzem als Fähnrich abg
 ### 2016-08-07 Session
 
 * Name von Wallners geheimem Treffen: Gustav oder in Coleur *Vercingetorix*
+
+### 2016-11-10 Session
+
+* Habe M1912 & M1904, Untersuchungskoffer, Friedenstahlkit
