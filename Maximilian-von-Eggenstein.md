@@ -8,7 +8,7 @@
 * Alter: **18**
 * Größe: **192cm**
 
-## Aspekte
+# Aspekte
 
 * Konzept: **Fünf Minuten vor der Zeit ist des Soldaten Pünktlichkeit**  
 im Endeffekt eine beschissene Variante von Captain Carrot
@@ -24,30 +24,30 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 "Aus eigener Kraft!" ist das Motto der Burschaft Markomannio
 * Nebenaspekt: **[[Gemeinsames Geheimnis mit Hr. Kern|Maximilian von Eggenstein Geheimnisse]]**
 
-## Fertigkeiten
+# Fertigkeiten
 
 4: [Fight][skills_fight] [Shoot][skills_shoot]  
 3: [Physique][skills_physique] [Notice][skills_notice] [Resources][skills_resources]  
 2: [Athletics][skills_athletics] [Drive][skills_drive] [Will][skills_will]   
 1: [Contacts][skills_contacts] [Stealth][skills_stealth] [Scholarship][skill_scholarship] [Engineering][skills_engineering]
 
-## Stunts
+# Stunts
 
-## Damage & Consequences
+# Damage & Consequences
 
 1:  
 2:  
 3:   
 4: 
 
-## Beziehungen zu Charakteren aus der Party
+# Beziehungen zu Charakteren aus der Party
 
 * Cousin von [[Roland von Eggenstein]]
 * Bundesbruder von [[Hubert von Wallner]]
 * Kennt [[Kamilla van Tan]] von der bedauerlichen Geschichte
 * Adjutant von Leutnant [[Leopold Friedenstahl]]
 
-## Inventar
+# Inventar
 
 Ausrüstungsliste von [Wikipedia][hungary-austrian-military]
 
@@ -60,17 +60,17 @@ Ausrüstungsliste von [Wikipedia][hungary-austrian-military]
 * 1 Paar schwere Überschuhe für Friedenstahl  
 * 1 Paar schwere Kautschukhandschuhe für Friedenstahl  
 
-## Background
+# Background
 
 Nach der Unterstufe die Kadettenschule besucht, und vor kurzem als Fähnrich abgeschlossen.
 
-## Spielinformationen
+# Spielinformationen
 
-### 2016-08-07 Session
+## 2016-08-07 Session
 
 * Name von Wallners geheimem Treffen: Gustav oder in Coleur *Vercingetorix*
 
-### 2016-11-10 Session
+## 2016-11-10 Session
 
 * Habe M1912 & M1904, Untersuchungskoffer, Friedenstahlkit mit
 * 
