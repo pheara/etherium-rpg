@@ -31,7 +31,7 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 2: [Athletics][skills_athletics] [Drive][skills_drive] [Will][skills_will]   
 1: [Contacts][skills_contacts] [Stealth][skills_stealth] [Scholarship][skills_scholarship] [Engineering][skills_engineering]
 
-/* # Stunts */ 
+/* # Stunts */
 
 # Damage & Consequences
 
