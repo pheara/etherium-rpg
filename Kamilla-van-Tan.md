@@ -35,8 +35,11 @@ moderate consequence von der geschichte vor der geschichte in der klamm: rechte 
 severe consequence von der geschichte in der klamm: nie mehr eisenmangel! (Schrapnell quasi überall)
 
 1:  
+
 2:  
+
 3: 
+
 4: 
 
 ## Beziehungen zu Charakteren aus der Party
