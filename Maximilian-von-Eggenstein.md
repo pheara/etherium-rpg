@@ -73,7 +73,11 @@ Nach der Unterstufe die Kadettenschule besucht, und vor kurzem als Fähnrich abg
 ## 2016-11-10 Session
 
 * Habe M1912 & M1904, Untersuchungskoffer, Friedenstahlkit mit
-* 
+
+## 2017-02-27 Session
+
+* Dipl. Ing. Jakub Botschek
+* [[Kamilla van Tan]] es nicht, Fräulein genannt zu werden 
 
 [skills_fight]: http://fate-srd.com/fate-core/Fight
 [skills_shoot]: http://fate-srd.com/fate-core/Shoot
