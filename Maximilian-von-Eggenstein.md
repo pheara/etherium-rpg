@@ -76,8 +76,13 @@ Nach der Unterstufe die Kadettenschule besucht, und vor kurzem als Fähnrich abg
 
 ## 2017-02-27 Session
 
-* Dipl. Ing. Jakub Botschek
 * [[Kamilla van Tan]] es nicht, Fräulein genannt zu werden 
+* Verdächtige
+  * Dipl. Ing. Jakub Botschek
+  * Maximilian von Arenatz, Dipl. Ing.
+  * Emil von Rabenfurth, Theoretische Physik
+  	* Motor nicht untersucht
+* 10-20 Minuten für Sabotage
 
 [skills_fight]: http://fate-srd.com/fate-core/Fight
 [skills_shoot]: http://fate-srd.com/fate-core/Shoot
