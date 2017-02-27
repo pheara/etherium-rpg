@@ -20,14 +20,20 @@ hat den investigativen Artikel, der Roland von Eggenstein den Job gekostet hat, 
 ## Fertigkeiten
 
 5: x
-4:  scholarship, deceit 
+
+4: scholarship, deceit 
+
 3: notice, contacts, stealth
+
 2: burglary, resources, guns
+
 1: weapons, athletics, presence, driving
 
 ## Damage & Consequences
 moderate consequence von der geschichte vor der geschichte in der klamm: rechte Schulter angeschossen
+
 severe consequence von der geschichte in der klamm: nie mehr eisenmangel! (Schrapnell quasi überall)
+
 1:  
 2:  
 3: 
