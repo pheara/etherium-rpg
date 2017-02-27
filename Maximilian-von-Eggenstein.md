@@ -19,7 +19,7 @@ Naiv und leicht manipulierbar, noch sehr beeindruckbar, vor Allem von starken M�
 * Nebenaspekt: **Vati! Vati!**  
 Sohn aus adeligem Hause, Adelssohn, Sohn reicher Eltern.  
 Sucht in [[Rudolf Kern]] und [[Leopold Friedenstahl]] eine Vaterfigur, weil der eigene Vater so gut wie nie daheim war, und wenn, dann distanziert
-* Nebenaspekt: **Aus eigener Kreaft!**  
+* Nebenaspekt: **Aus eigener Kraft!**  
 Burschenschafter, Bundesbruder von [[Hubert von Wallner]]  
 "Aus eigener Kraft!" ist das Motto der Burschaft Markomannio
 * Nebenaspekt: **[[Gemeinsames Geheimnis mit Hr. Kern|Maximilian von Eggenstein Geheimnisse]]**
@@ -76,10 +76,13 @@ Nach der Unterstufe die Kadettenschule besucht, und vor kurzem als Fähnrich abg
 
 ## 2017-02-27 Session
 
+* Opfer der ganzen Story
+  * Adenatz, Direktor vom Polytechnikum, tot
+  * Prinzessin Habsburg, schwer verletzt
 * [[Kamilla van Tan]] es nicht, Fräulein genannt zu werden 
 * Verdächtige
   * Dipl. Ing. Jakub Botschek
-  * Maximilian von Arenatz, Dipl. Ing.
+  * Maximilian von Adenatz, Dipl. Ing.
   * Emil von Rabenfurth, Theoretische Physik
   	* Motor nicht untersucht
 * 10-20 Minuten für Sabotage
