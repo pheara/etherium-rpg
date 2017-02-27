@@ -12,7 +12,7 @@
 * Dilemma: **Voyeurismus**
 * Nebenaspekt: **nie um ein Wort verlegen**
 I do puns.
-* Nebenaspekt: ** ein Auge für Details**
+* Nebenaspekt: **ein Auge für Details**
 hat den investigativen Artikel, der Roland von Eggenstein den Job gekostet hat, verfasst; dokumentiert nun, wie seine Rehabilitation läuft und in der größten Zeitung des Landes, der "Korona", über die Erfolge des kkAWT berichten.
 
 ## Stunt
