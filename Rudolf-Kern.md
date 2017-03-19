@@ -1,3 +1,11 @@
+## TODO
+
+* +1 refresh
+* +1 skill point (und skill cap)
+* high concept umbenennen (detektiv wirds jetzt nimmer tun)
+
+## Daten
+
 * Name: **Rudolf Kern**
 * Spieler: **Alex**
 * Refresh: **7**
