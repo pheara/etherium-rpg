@@ -22,7 +22,7 @@ Zeigt großes Interesse für technologische und wissenschaftliche Themen und Art
 
 4: [Scholarship][skills_scholarship] (Chemistry, Physics, Natural Sciences)  
 3: [Engineering][skills_engineering] | [Drive][skills_drive]  
-2: [Shoot][skills_shoot] | [Will][skills_will] | [Notice][skills_notice]  
+2: [Shoot][skills_shoot] | [Investigate][skill_investigate] | [Notice][skills_notice]  
 1: [Contacts][skills_contacts] | [Stealth][skills_stealth] | [Physique][skills_physique] | [Will][skills_will]  
 
 # Stunts
