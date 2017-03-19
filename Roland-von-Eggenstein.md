@@ -22,7 +22,7 @@ Zeigt großes Interesse für technologische und wissenschaftliche Themen und Art
 
 4: [Scholarship][skills_scholarship] (Chemistry, Physics, Natural Sciences)  
 3: [Engineering][skills_engineering] | [Drive][skills_drive]  
-2: [Shoot][skills_shoot] | [Investigate][skill_investigate] | [Notice][skills_notice]  
+2: [Shoot][skills_shoot] | [Investigate][skills_investigate] | [Notice][skills_notice]  
 1: [Contacts][skills_contacts] | [Stealth][skills_stealth] | [Physique][skills_physique] | [Will][skills_will]  
 
 # Stunts
@@ -60,4 +60,5 @@ Interessietre sich als Jugendlicher für Wissenschaft, und wurde deshalb von sei
 [skills_stealth]: http://fate-srd.com/fate-core/Stealth
 [skills_scholarship]: http://fate-srd.com/fate-core/Lore
 [skills_engineering]: http://fate-srd.com/fate-core/Craft
+[skills_investigate]: https://fate-srd.com/fate-core/investigate
 [hungary-austrian-military]: https://de.wikipedia.org/wiki/Militärische_Ausrüstung_der_Infanterie_im_Ersten_Weltkrieg#.C3.96sterreich-Ungarn
