@@ -9,13 +9,13 @@
 
 # Aspekte
 
-* Konzept: Tinkering on the go
+* Konzept: Tinkering on the go  
 Trägt in seiner Tasche allerlei Werkzeug und Utensilien herum, meist mehr als gebraucht wird.
 
-* Aspekt: Science all night
+* Aspekt: Science all night. 
 Ist es gewöhnt seinen Schlafrhytmus durcheinander zu bringen und zeigt dadurch keine Zeichen von Müdigkeit, arbeitet gut in späten Abendstunden.
 
-* Dilemma: Ohh, how does that work?!
+* Dilemma: Ohh, how does that work?!  
 Zeigt großes Interesse für technologische und wissenschaftliche Themen und Artefakte.
 
 # Fertigkeiten
