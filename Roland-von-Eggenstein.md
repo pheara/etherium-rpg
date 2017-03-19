@@ -46,7 +46,7 @@ Zeigt großes Interesse für technologische und wissenschaftliche Themen und Art
 
 # Background
 
-Interessiere sich als Jugendlicher für Wissenschaft, und wurde deshalb von seinem Cousin, [[Maximilian von Eggenstein]] in vorauseilendem Gehorsam an das kkAWT gemeldet, woraufhin er dort als Wissenschaftler zwangsangestellt wurde. Er befindet sich unter teilweisem Hausarrest.
+Interessietre sich als Jugendlicher für Wissenschaft, und wurde deshalb von seinem Cousin, [[Maximilian von Eggenstein]] in vorauseilendem Gehorsam an das kkAWT gemeldet, woraufhin er dort als Wissenschaftler zwangsangestellt wurde. Er befindet sich unter teilweisem Hausarrest.
 
 [skills_fight]: http://fate-srd.com/fate-core/Fight
 [skills_shoot]: http://fate-srd.com/fate-core/Shoot
