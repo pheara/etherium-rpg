@@ -27,8 +27,6 @@ Zeigt großes Interesse für technologische und wissenschaftliche Themen und Art
 
 # Stunts
 
-* Always ready
-
 # Damage & Consequences
 
 1:  
