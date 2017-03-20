@@ -1,8 +1,21 @@
-## TODO
+## Kaisermord und so
 
-* +1 refresh
-* +1 skill point (und skill cap)
-* high concept umbenennen (detektiv wirds jetzt nimmer tun)
+* Kern hat (unter Einfluss des Kampfgases, das er wegen Drogenmissbrauch eingeatmet hat) den Kaiser getötet. Damit hat er einer sehr gehassten Person auf den Thron verholfen (Maria Elisabeth, siehe unten).
+* Kern ist in den Untergrund abgetaucht und hat sich mit seine Kontakten dort über Wasser gehalten. Neben dem Milieu hat er sich nun auch einigen pro-tech Revolutionären und Untergrund-Wissenschaftlerinnen angenähert. Dort hat er das Pseudonym "schwarzer Fuchs" aufgebaut, nach einer Maske die er vom Morpheus-Ball noch hatte.
+* Änderungs-/Aufstiegsvorschläge:
+    * +1 Contacts
+    * Konzept: Finsterer Detektiv -> Informationshändler mit revolutionären Tendenzen
+    * Vielleicht: Euer verantwortungsloser Ethriummissbrauch hat Bernhard getötet! -> Bernhard's alter Mantel und eine schwarze Fuchsmaske
+        * Beides sehr symbolisch: Bernhard's Mantel erinnert an seinen ungerechten tot, und die Fuchsmaske an Kern's Beitrag zu Maria Elisabeth's Aufstieg.
+    * Vielleicht muss das Dilemma umgearbeitet werden, im neuen Umfeld ist das vielleicht weniger problematisch als vorher.
+    * Uncanny Hunch -> Statt raten ein mal pro session. Ist viel einfacher zu handhaben.
+    * Cold Read -> 2 Möglichkeiten:
+        * +2 um oberflächlich den emotionalen Zustand einer Person zu bestimmen. (Quasi +2 zu Notice-artigen Empathy würfen)
+        * +2 um Ängste und andere Angriffspunkte von Leuten zu bestimmen. (Vielleicht wird das auch ein neuer Stunt)
+    * Neuer Stunt, einer davon: (Refresh vom Milestone)
+        * Die Feinde meiner Feinde … -> +2 um jemanden zu finden, der oder die einer bestimmten Person schaden will.
+        * Nase für Probleme -> +2 um nützliche, ausnutzbare Leute zu finden.
+    * Vielleicht sollte das Medizin-Ding auch ein Stunt sein
 
 ## Daten
 
