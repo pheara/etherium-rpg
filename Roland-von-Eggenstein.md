@@ -3,7 +3,7 @@
 * Name: **Roland von Eggenstein**
 * Titel: **Doktor der Naturwissenschaften**
 * Spieler: **peace**
-* Refresh: **11**
+* Refresh: **8**
 * Alter: **18**
 * Größe: **184cm**
 
@@ -27,6 +27,10 @@ Zeigt großes Interesse für technologische und wissenschaftliche Themen und Art
 1: [Rapport][skills_rapport] | [Deceive][skills_deceive] | [Stealth][skills_stealth]  
 
 # Stunts
+
+* **I’ve Read about That!** You’ve read hundreds—if not thousands—of books on a wide variety of topics. You can spend a fate point to use Lore in place of any other skill for one roll or exchange, provided you can justify having read about the action you’re attempting.
+* **Always Making Useful Things.** You don’t ever have to spend a fate point to declare that you have the proper tools for a particular job using Crafts, even in extreme situations (like being imprisoned and separated from all your stuff). This source of opposition is just off the table.
+* **Better than New!** Whenever you succeed with style on an overcome action to repair a piece of machinery, you can immediately give it a new situation aspect (with a free invoke) reflecting the improvements you’ve made, instead of just a boost.
 
 # Damage & Consequences
 
