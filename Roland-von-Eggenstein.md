@@ -9,14 +9,7 @@
 
 # Aspekte
 
-* Konzept: Tinkering on the go  
-Trägt in seiner Tasche allerlei Werkzeug und Utensilien herum, meist mehr als gebraucht wird.
-
-* Aspekt: Science all night. 
-Ist es gewöhnt seinen Schlafrhytmus durcheinander zu bringen und zeigt dadurch keine Zeichen von Müdigkeit, arbeitet gut in späten Abendstunden.
-
-* Dilemma: Ohh, how does that work?!  
-Zeigt großes Interesse für technologische und wissenschaftliche Themen und Artefakte.
+* WIP
 
 # Fertigkeiten
 
@@ -42,12 +35,13 @@ Zeigt großes Interesse für technologische und wissenschaftliche Themen und Art
 # Beziehungen zu Charakteren aus der Party
 
 * Cousin von [[Maximilian von Eggenstein]]
-* Wissenschaftler des kkAWT
+* (ehemaliger?) Wissenschaftler des kkAWT
 
 # Inventar
 
 * Leichter, dunkler Mantel
 * Tasche mit Laborausrüstung und anderen Utensilien
+* Augmentierte Pistole
 
 # Background
 
