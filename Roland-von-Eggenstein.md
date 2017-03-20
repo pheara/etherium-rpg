@@ -1,9 +1,9 @@
 # Doktor Roland von Eggenstein
 
 * Name: **Roland von Eggenstein**
-* Titel: Doktor der Naturwissenschaften
+* Titel: **Doktor der Naturwissenschaften**
 * Spieler: **peace**
-* Refresh: **10**
+* Refresh: **11**
 * Alter: **18**
 * Größe: **184cm**
 
@@ -20,10 +20,11 @@ Zeigt großes Interesse für technologische und wissenschaftliche Themen und Art
 
 # Fertigkeiten
 
-4: [Scholarship][skills_scholarship] (Chemistry, Physics, Natural Sciences)  
-3: [Engineering][skills_engineering] | [Drive][skills_drive]  
-2: [Shoot][skills_shoot] | [Investigate][skills_investigate] | [Notice][skills_notice]  
-1: [Contacts][skills_contacts] | [Stealth][skills_stealth] | [Physique][skills_physique] | [Will][skills_will]  
+5: [Lore][skills_lore] (Natural Sciences, Engineering)  
+4: [Craft][skills_craft] | [Will][skills_will]  
+3: [Drive][skills_drive] | [Investigate][skills_investigate]  
+2: [Empathy][skills_empathy] | [Notice][skills_notice] | [Shoot][skills_shoot]  
+1: [Rapport][skills_rapport] | [Deceive][skills_deceive] | [Stealth][skills_stealth]  
 
 # Stunts
 
@@ -58,7 +59,9 @@ Interessietre sich als Jugendlicher für Wissenschaft, und wurde deshalb von sei
 [skills_will]: http://fate-srd.com/fate-core/Will
 [skills_contacts]: http://fate-srd.com/fate-core/Contacts
 [skills_stealth]: http://fate-srd.com/fate-core/Stealth
-[skills_scholarship]: http://fate-srd.com/fate-core/Lore
-[skills_engineering]: http://fate-srd.com/fate-core/Craft
+[skills_lore]: http://fate-srd.com/fate-core/Lore
+[skills_craft]: http://fate-srd.com/fate-core/Craft
 [skills_investigate]: https://fate-srd.com/fate-core/investigate
-[hungary-austrian-military]: https://de.wikipedia.org/wiki/Militärische_Ausrüstung_der_Infanterie_im_Ersten_Weltkrieg#.C3.96sterreich-Ungarn
+[skills_empathy]: https://fate-srd.com/fate-core/empathy
+[skills_rapport]: https://fate-srd.com/fate-core/rapport
+[skills_deceive]: https://fate-srd.com/fate-core/deceive
