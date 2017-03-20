@@ -3,7 +3,7 @@
 * Name: **Roland von Eggenstein**
 * Titel: **Doktor der Naturwissenschaften**
 * Spieler: **peace**
-* Refresh: **8**
+* Refresh: **6**
 * Alter: **18**
 * Größe: **184cm**
 
@@ -13,7 +13,7 @@
 
 # Fertigkeiten
 
-5: [Lore][skills_lore] (Natural Sciences, Engineering)  
+5: [Lore][skills_lore]  
 4: [Craft][skills_craft] | [Will][skills_will]  
 3: [Drive][skills_drive] | [Investigate][skills_investigate]  
 2: [Empathy][skills_empathy] | [Notice][skills_notice] | [Shoot][skills_shoot]  
@@ -24,6 +24,8 @@
 * **I’ve Read about That!** You’ve read hundreds—if not thousands—of books on a wide variety of topics. You can spend a fate point to use Lore in place of any other skill for one roll or exchange, provided you can justify having read about the action you’re attempting.
 * **Always Making Useful Things.** You don’t ever have to spend a fate point to declare that you have the proper tools for a particular job using Crafts, even in extreme situations (like being imprisoned and separated from all your stuff). This source of opposition is just off the table.
 * **Better than New!** Whenever you succeed with style on an overcome action to repair a piece of machinery, you can immediately give it a new situation aspect (with a free invoke) reflecting the improvements you’ve made, instead of just a boost.
+* **Specialist: Engineering** Get a +2 to al rolls related to engineering  
+* **Specialist: Chemistry** Get a +2 to all rolls related to chemistry  
 
 # Damage & Consequences
 
