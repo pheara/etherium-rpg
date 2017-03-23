@@ -1,9 +1,50 @@
 * Name: **Leopold Friedenstahl**
 * Rang: **Oberleutnant**
 * Spieler: **frede**
-* Refresh: **4**
+* Refresh: **7**
 * Alter: **23**
 * Größe: **185cm**
+
+# New and Improved Friedenstahl (wip)
+
+## Aspekte
+
+* Konzept: **Technokommunist**  
+
+* Aspekt/Background: **Ex-Offizier des kkawt**  
+* Dilemma: **Meins, deins, das sind doch bürgerliche Kategorien**  
+* Aspekt: **Ich seh die Welt mit neuen Augen**  
+Das rechte Auge ist mittlerweile ein Etheriumauge.  
+* Aspekt: **The first duty of a revolutionary is to be educated.** 
+* Aspekt: **Ordnung, Sauberkeit und Disziplin**  
+Lieblingsworte meines "Mentors" in der Ausbildung.  
+
+## Stunts (old rules/subject to change)
+* Corner of my Eye (Alterness) +2 shifts für passive Wahrnehmung
+* Indomitable. (Will) +2 to defend against Provoke attacks specifically related to intimidation and fear.  
+* Pin Them Down (Shoot) Aiming Aspekt kann nicht entfernt werden. +1 border difficulty für das Ziel.
+* Swift and Silent (Stealth) bis zu -2 difficulty für schnelles Schleichen
+
+## Fertigkeiten 
+
+5:  
+4: Shoot  
+3: Will, Scholarship 
+2: Notice, Stealth, Athletics, Physique, Investigate
+1: Burglary, Drive, Engineering, Contacts, Resources, Fight, Provoke, Rapport
+
+(Max 28)
+Scholarship: Military Tactics, Etherium Theory, Philosophy/Marxism
+
+## Damage & Consequences
+
+Physical: 3  
+Mental: 3   
+
+Mild:  
+Moderate:  
+Severe:  
+Extreme: 
 
 ## Aspekte
 
