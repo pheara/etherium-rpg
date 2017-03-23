@@ -31,11 +31,11 @@ Lieblingsworte meines "Mentors" in der Ausbildung.
 5:  
 4: Shoot  
 3: Will, Scholarship 
-2: Notice, Stealth, Athletics, Physique, Investigate
+2: Notice, Stealth, Athletics, Physique, Investigate  
 1: Burglary, Drive, Engineering, Contacts, Resources, Fight, Provoke, Rapport
 
-(Max 28)
-Scholarship: Military Tactics, Etherium Theory, Philosophy/Marxism
+(Max 28)  
+Scholarship: Military Tactics, Etherium Theory, Philosophy/Marxism  
 
 ## Damage & Consequences
 
