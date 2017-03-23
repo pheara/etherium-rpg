@@ -30,7 +30,7 @@ Lieblingsworte meines "Mentors" in der Ausbildung.
 
 5:  
 4: Shoot  
-3: Will, Scholarship 
+3: Will, Scholarship  
 2: Notice, Stealth, Athletics, Physique, Investigate  
 1: Burglary, Drive, Engineering, Contacts, Resources, Fight, Provoke, Rapport
 
