@@ -18,6 +18,7 @@ Das rechte Auge ist mittlerweile ein Etheriumauge.
 * Aspekt: **The first duty of a revolutionary is to be educated.** 
 * Aspekt: **Ordnung, Sauberkeit und Disziplin**  
 Lieblingsworte meines "Mentors" in der Ausbildung.  
+* Aspekt: **Nichts ist von Wert, wenn es nicht sinnvoll ist.** (?/evtl trouble aspekt?)
 
 ## Stunts (old rules/subject to change)
 * Corner of my Eye (Alterness) +2 shifts für passive Wahrnehmung
@@ -45,6 +46,8 @@ Mild:
 Moderate:  
 Severe:  
 Extreme: 
+
+# Old Friedenstahl
 
 ## Aspekte
 
