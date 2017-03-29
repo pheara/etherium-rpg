@@ -19,9 +19,8 @@ Naiv und leicht manipulierbar, noch sehr beeindruckbar, vor Allem von starken MÃ
 * Nebenaspekt: **Vati! Vati!**  
 Sohn aus adeligem Hause, Adelssohn, Sohn reicher Eltern.  
 Sucht in [[Rudolf Kern]] und [[Leopold Friedenstahl]] eine Vaterfigur, weil der eigene Vater so gut wie nie daheim war, und wenn, dann distanziert
-* Nebenaspekt: **Aus eigener Kraft!**  
-Burschenschafter, Bundesbruder von [[Hubert von Wallner]]  
-"Aus eigener Kraft!" ist das Motto der Burschaft Markomannio
+* Nebenaspekt: **Meine Welt ist gerade zusammengebrochen!**  
+"Ich habe gesehen, wie eine Person, die ich extrem bewundere, von einer anderen Person, die ich sehr bewundere, umgebracht wurde, was eine dritte Person, die ich sehr bewundere, zum Zusammenbrechen brachte. Warum?"
 * Nebenaspekt: **[[Gemeinsames Geheimnis mit Hr. Kern|Maximilian von Eggenstein Geheimnisse]]**
 
 # Fertigkeiten
