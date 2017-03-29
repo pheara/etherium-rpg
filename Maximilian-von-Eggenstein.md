@@ -29,7 +29,7 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 4: [Fight][skills_fight] | [Shoot][skills_shoot]  
 3: [Physique][skills_physique] | [Notice][skills_notice] | [Resources][skills_resources]  
 2: [Athletics][skills_athletics] | [Drive][skills_drive] | [Will][skills_will]  
-1: [Contacts][skills_contacts] | [Stealth][skills_stealth] | [Scholarship][skills_scholarship] (Military Tactics) | [Engineering][skills_engineering]
+1: [Contacts][skills_contacts] | [Stealth][skills_stealth] | [Scholarship][skills_scholarship] (Military Tactics) | [Engineering][skills_engineering] | [Empathy][skills_empathy]
 
 <!-- # Stunts -->
 
@@ -97,3 +97,4 @@ Nach der Unterstufe die Kadettenschule besucht, und vor kurzem als Fähnrich abg
 [skills_stealth]: http://fate-srd.com/fate-core/Stealth
 [skills_scholarship]: http://fate-srd.com/fate-core/Lore
 [skills_engineering]: http://fate-srd.com/fate-core/Craft
+[skills_empathy]: http://fate-srd.com/fate-core/Empathy
