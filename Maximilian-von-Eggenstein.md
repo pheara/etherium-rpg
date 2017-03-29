@@ -49,8 +49,6 @@ Burschenschafter, Bundesbruder von [[Hubert von Wallner]]
 
 # Inventar
 
-Ausrüstungsliste von [Wikipedia][hungary-austrian-military]
-
 * 1 Felltornister M1906  
 * 1 Pistole Steyr M1912  
 * 1 Mannschaftssäbel M1904  
@@ -99,4 +97,3 @@ Nach der Unterstufe die Kadettenschule besucht, und vor kurzem als Fähnrich abg
 [skills_stealth]: http://fate-srd.com/fate-core/Stealth
 [skills_scholarship]: http://fate-srd.com/fate-core/Lore
 [skills_engineering]: http://fate-srd.com/fate-core/Craft
-[hungary-austrian-military]: https://de.wikipedia.org/wiki/Militärische_Ausrüstung_der_Infanterie_im_Ersten_Weltkrieg#.C3.96sterreich-Ungarn
