@@ -10,7 +10,7 @@
 ## Aspekte
 
 * Konzept: **Informationshändler mit revolutionären Tendenzen**
-* Dilemma: **Dunkles Geheimnis**
+* Dilemma: **Dunkle Geheimnisse**
 * **Veteran der Gulaschkanoniertruppe**
 
   Hat sich angeboten, Eltern im Wirtshaus und so. Der Versorgungstrupp wurde aber irgendwann angegriffen, woraufhin Kern das Militär verlassen hat. Kern hat eine Beinwunde davon getragen, die aber schon verheilt ist.
@@ -76,5 +76,5 @@
 
 ## Log
 
-* Kern hat (unter Einfluss des Kampfgases, das er wegen Drogenmissbrauch eingeatmet hat) den Kaiser getötet. Damit hat er einer sehr gehassten Person auf den Thron verholfen (Maria Elisabeth, siehe unten).
+* Kern hat (unter Einfluss des Kampfgases, das er wegen Drogenmissbrauch eingeatmet hat) den Kaiser getötet. Damit hat er einer sehr gehassten Person auf den Thron verholfen (Maria Elisabeth, siehe oben). Wissen nicht viele, Teil vom Trouble Aspekt.
 * Kern ist in den Untergrund abgetaucht und hat sich mit seine Kontakten dort über Wasser gehalten. Neben dem Milieu hat er sich nun auch einigen pro-tech Revolutionären und Untergrund-Wissenschaftlerinnen angenähert. Dort hat er das Pseudonym "schwarzer Fuchs" aufgebaut, nach einer Maske die er vom Morpheus-Ball noch hatte.
