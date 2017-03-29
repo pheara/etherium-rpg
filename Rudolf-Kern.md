@@ -48,9 +48,9 @@
 
 ## Skills
 
-* **+4:** Investigate
-* **+3:** Notice, Empathy, Provoke, Contacts
-* **+2:** Scholarship (Medizin + ?), Deceive, Will
+* **+4:** Investigate, Empathy
+* **+3:** Notice, Provoke
+* **+2:** Scholarship, Deceive, Will, Contacts
 * **+1:** Shoot, Drive, Physique, Rapport, Resources, Stealth
 
 ## Stress and Consequences
