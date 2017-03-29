@@ -10,6 +10,7 @@
 # Aspekte
 
 * Free from the shackles of government!
+* Weaponized disappointment
 
 # Fertigkeiten
 
