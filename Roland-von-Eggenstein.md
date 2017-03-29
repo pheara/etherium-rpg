@@ -9,7 +9,7 @@
 
 # Aspekte
 
-* WIP
+* Free from the shackles of government!
 
 # Fertigkeiten
 
