@@ -1,22 +1,3 @@
-## Kaisermord und so
-
-* Kern hat (unter Einfluss des Kampfgases, das er wegen Drogenmissbrauch eingeatmet hat) den Kaiser getötet. Damit hat er einer sehr gehassten Person auf den Thron verholfen (Maria Elisabeth, siehe unten).
-* Kern ist in den Untergrund abgetaucht und hat sich mit seine Kontakten dort über Wasser gehalten. Neben dem Milieu hat er sich nun auch einigen pro-tech Revolutionären und Untergrund-Wissenschaftlerinnen angenähert. Dort hat er das Pseudonym "schwarzer Fuchs" aufgebaut, nach einer Maske die er vom Morpheus-Ball noch hatte.
-* Änderungs-/Aufstiegsvorschläge:
-    * +1 Contacts
-    * Konzept: Finsterer Detektiv -> Informationshändler mit revolutionären Tendenzen
-    * Vielleicht: Euer verantwortungsloser Ethriummissbrauch hat Bernhard getötet! -> Bernhard's alter Mantel und eine schwarze Fuchsmaske
-        * Beides sehr symbolisch: Bernhard's Mantel erinnert an seinen ungerechten tot, und die Fuchsmaske an Kern's Beitrag zu Maria Elisabeth's Aufstieg.
-    * Vielleicht muss das Dilemma umgearbeitet werden, im neuen Umfeld ist das vielleicht weniger problematisch als vorher.
-    * Uncanny Hunch -> Statt raten ein mal pro session. Ist viel einfacher zu handhaben.
-    * Cold Read -> 2 Möglichkeiten:
-        * +2 um oberflächlich den emotionalen Zustand einer Person zu bestimmen. (Quasi +2 zu Notice-artigen Empathy würfen)
-        * +2 um Ängste und andere Angriffspunkte von Leuten zu bestimmen. (Vielleicht wird das auch ein neuer Stunt)
-    * Neuer Stunt, einer davon: (Refresh vom Milestone)
-        * Die Feinde meiner Feinde … -> +2 um jemanden zu finden, der oder die einer bestimmten Person schaden will.
-        * Nase für Probleme -> +2 um nützliche, ausnutzbare Leute zu finden.
-    * Vielleicht sollte das Medizin-Ding auch ein Stunt sein
-
 ## Daten
 
 * Name: **Rudolf Kern**
@@ -28,7 +9,7 @@
 
 ## Aspekte
 
-* Konzept: **Finsterer Detektiv**
+* Konzept: **Informationshändler mit revolutionären Tendenzen**
 * Dilemma: **Dunkles Geheimnis**
 * **Veteran der Gulaschkanoniertruppe**
 
@@ -38,19 +19,13 @@
 
   (TODO: gut für Plot, nicht so viele Einsatzmöglichkeiten)
 
-* **Euer verantwortungsloser Ethriummissbrauch hat Bernhard getötet!**
+* **Bernhard's alter Mantel und eine schwarze Fuchsmaske**
 
   Kern's Bruder von Wissenschaftlerin als Kollateralschaden getötet. Ein Experiment mit einer Wettermaschine hat eine Lawine ausgelöst während Bernd wandern war. Hat auch das benachbarte Dorf im Schnee versenkt. Da die Verantwortliche (Maria Elisabeth von Habsburg) in der Thronfolge ist wurde ihre involviertheit vertuscht, Kern hat es aufgedeckt, aber die Schuldige ist unantastbar.
 
   Friedenstahl war in niedrigem Rang dort als Wachposten stationiert und hat das beobachtet. Er wollte Kern helfen, konnte aber nichts ausrichten.
 
-  Adel ist kein Freibrief?
-
-  (TODO: gut für Plot, nicht so viele Einsatzmöglichkeiten)
-
-* *retired: pragmatisches Gewissen*
-
-  Kurz gesagt: Leute sind nützlicher und machen weniger Schwierigkeiten, wenn sie am Leben sind. Vorausgesetzt die "Geschäftsbeziehungen" zu ihnen sind gut genug, natürlich.
+  Seitdem Kern dieser Prinzessin unabsichtlich auf den Thron verholfen hat, verwendet er eine schwarze Fuchsmaske um seine Identität zu verbergen.
 
 * **Spielt das Erpressungsspiel**
 
@@ -74,8 +49,8 @@
 ## Skills
 
 * **+4:** Investigate
-* **+3:** Notice, Empathy, Provoke
-* **+2:** Scholarship (Medizin + ?), Deceive, Will, Contacts
+* **+3:** Notice, Empathy, Provoke, Contacts
+* **+2:** Scholarship (Medizin + ?), Deceive, Will
 * **+1:** Shoot, Drive, Physique, Rapport, Resources, Stealth
 
 ## Stress and Consequences
@@ -89,9 +64,17 @@
 ## Stunts
 
 * Cold Read
-    * Kann den emotionalen Stand einer Person auf einen Blick bestimmen. Also Empathy verwenden um Advantages zu bauen ohne mit der Person tatsächlich zu reden.
+    * +2 um emotionale Schwachpunkte von Leuten aufzuspüren.
 * Scene of the Crime
     * Wenn an einem Ort schon investigated wurde, kann der Char einen Investigate Wurf machen um sofort zu bestimmen, was sich seit dem letzten Mal geändert hat. Normalerweise dauert das durchsuchen länger, so etwas wäre notice und weniger genau.
 * Uncanny Hunch
-    * Einmal pro Szene raten. Wenn das geratene stimmt, kann der Char Investigate statt einem anderen Skill werfen.
+    * Einmal pro Session Investigate statt einem anderen Skill verwenden, wenn Vorbereitung aufgrund einer Vermutung diese Aufgabe erledigen hätte können.
+* Forensischer Anthropologe
+    * +2 auf Scholarship wenn es um Verwundungen an Menschen geht.
+* Die Feinde meiner Feinde …
+    * +2 auf Contacts um Leute zu finden, die meinen Feinden schaden wollen.
 
+## Log
+
+* Kern hat (unter Einfluss des Kampfgases, das er wegen Drogenmissbrauch eingeatmet hat) den Kaiser getötet. Damit hat er einer sehr gehassten Person auf den Thron verholfen (Maria Elisabeth, siehe unten).
+* Kern ist in den Untergrund abgetaucht und hat sich mit seine Kontakten dort über Wasser gehalten. Neben dem Milieu hat er sich nun auch einigen pro-tech Revolutionären und Untergrund-Wissenschaftlerinnen angenähert. Dort hat er das Pseudonym "schwarzer Fuchs" aufgebaut, nach einer Maske die er vom Morpheus-Ball noch hatte.
