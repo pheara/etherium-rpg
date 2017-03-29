@@ -2,7 +2,7 @@
 
 * Name: **Rudolf Kern**
 * Spieler: **Alex**
-* Refresh: **7**
+* Refresh: **6**
 * Alter: **27**
 * Größe: **185cm**
 * Sprachen: Deutsch, Französisch, Tschechisch
