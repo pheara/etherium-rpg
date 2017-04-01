@@ -28,7 +28,7 @@ Lieblingsworte meines "Mentors" in der Ausbildung.
   Aspects:  
   Function: Vision Enhancement  
   Flaw: Has a mind of its own  
-  Stunts: I See You! - Spend 1 Fate Point to get +2 to create an advantage regarding (unnatural/extraordinary) vision: Spotting someone, Seeing through walls, etc.  
+  Stunts: I See You! - Spend 1 Fate Point to get +2 to create an advantage regarding (unnatural/extraordinary) vision: Spotting someone hidden, Seeing through walls/solid objects, Someone sneaking up from behind, etc.  
 
 ## Fertigkeiten 
 
