@@ -1,7 +1,7 @@
 * Name: **Leopold Friedenstahl**
-* Rang: **Oberleutnant**
+* Rang: **Hauptmann**
 * Spieler: **frede**
-* Refresh: **7**
+* Refresh: **6**
 * Alter: **23**
 * Größe: **185cm**
 
@@ -9,33 +9,36 @@
 
 ## Aspekte
 
-* Konzept: **Technokommunist**  
+* Konzept: **[blank] Revolutionär**  
 
 * Aspekt/Background: **Ex-Offizier des kkawt**  
-* Dilemma: **Meins, deins, das sind doch bürgerliche Kategorien**  
+* Dilemma: **old rabbits die hard**  
 * Aspekt: **Ich seh die Welt mit neuen Augen**  
 Das rechte Auge ist mittlerweile ein Etheriumauge.  
-* Aspekt: **The first duty of a revolutionary is to be educated.** 
 * Aspekt: **Ordnung, Sauberkeit und Disziplin**  
 Lieblingsworte meines "Mentors" in der Ausbildung.  
-* Aspekt: **Nichts ist von Wert, wenn es nicht sinnvoll ist.** (?/evtl trouble aspekt?)
+
 
 ## Stunts (old rules/subject to change)
 * Corner of my Eye (Alterness) +2 shifts für passive Wahrnehmung
 * Indomitable. (Will) +2 to defend against Provoke attacks specifically related to intimidation and fear.  
 * Pin Them Down (Shoot) Aiming Aspekt kann nicht entfernt werden. +1 border difficulty für das Ziel.
 * Swift and Silent (Stealth) bis zu -2 difficulty für schnelles Schleichen
+* Ethrium Eye - nach den Gadgets and Gear Regeln  
+  Aspects:  
+  Function: Vision Enhancement  
+  Flaw: Has a mind of its own  
+  Stunts: I See You! - Spend 1 Fate Point to get +2 to create an advantage regarding vision: Spotting someone, Seeing through walls, etc.  
 
 ## Fertigkeiten 
 
 5:  
 4: Shoot  
-3: Will, Scholarship  
-2: Notice, Stealth, Athletics, Physique, Investigate  
-1: Burglary, Drive, Engineering, Contacts, Resources, Fight, Provoke, Rapport
+3: Will, Athletics, Physique  
+2: Notice, Stealth, Scholarship, Provoke, Investigate  
+1: Drive, Contacts, Resources, Fight, Rapport
 
-(Max 28)  
-Scholarship: Military Tactics, Etherium Theory, Philosophy/Marxism  
+(Max 28)   
 
 ## Damage & Consequences
 
