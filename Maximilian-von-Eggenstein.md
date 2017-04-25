@@ -59,17 +59,15 @@ Sucht in [[Rudolf Kern]] und [[Leopold Friedenstahl]] eine Vaterfigur, weil der 
 
 # Background
 
-Nach der Unterstufe die Kadettenschule besucht, und vor kurzem als Fähnrich abgeschlossen.
+* Nach der Unterstufe die Kadettenschule besucht, und vor kurzem als Fähnrich abgeschlossen
+* Mutter sehr aufklärerisch unterwegs, deswegen die meiste Zeit auf dem Landsitz der Familie einquartiert
+* Vater immer sehr distanziert
 
 # Spielinformationen
 
-## 2016-08-07 Session
+## 2017-04-25 Session
 
-* Name von Wallners geheimem Treffen: Gustav oder in Coleur *Vercingetorix*
 
-## 2016-11-10 Session
-
-* Habe M1912 & M1904, Untersuchungskoffer, Friedenstahlkit mit
 
 ## 2017-02-27 Session
 
@@ -83,6 +81,15 @@ Nach der Unterstufe die Kadettenschule besucht, und vor kurzem als Fähnrich abg
   * Emil von Rabenfurth, Theoretische Physik
   	* Motor nicht untersucht
 * 10-20 Minuten für Sabotage
+
+## 2016-11-10 Session
+
+* Habe M1912 & M1904, Untersuchungskoffer, Friedenstahlkit mit
+
+## 2016-08-07 Session
+
+* Name von Wallners geheimem Treffen: Gustav oder in Coleur *Vercingetorix*
+
 
 [skills_fight]: http://fate-srd.com/fate-core/Fight
 [skills_shoot]: http://fate-srd.com/fate-core/Shoot
