@@ -22,6 +22,7 @@ Sucht in [[Rudolf Kern]] und [[Leopold Friedenstahl]] eine Vaterfigur, weil der 
 * Nebenaspekt: **Meine Welt ist gerade zusammengebrochen!**  
 "Ich habe gesehen, wie eine Person, die ich extrem bewundere, von einer anderen Person, die ich sehr bewundere, umgebracht wurde, was eine dritte Person, die ich sehr bewundere, zum Zusammenbrechen brachte. Warum?"
 * Nebenaspekt: **[[Gemeinsames Geheimnis mit Hr. Kern|Maximilian von Eggenstein Geheimnisse]]**
+* Nebenaspekt: **Die Helden des Neuen Markts**
 
 # Fertigkeiten
 
@@ -30,7 +31,14 @@ Sucht in [[Rudolf Kern]] und [[Leopold Friedenstahl]] eine Vaterfigur, weil der 
 2: [Athletics][skills_athletics] | [Drive][skills_drive] | [Will][skills_will]  
 1: [Contacts][skills_contacts] | [Stealth][skills_stealth] | [Scholarship][skills_scholarship] (Military Tactics) | [Engineering][skills_engineering] | [Empathy][skills_empathy]
 
-<!-- # Stunts -->
+# Stunts 
+
+**Ich fordere Satisfaktion!**  
+Erfahrener Duellist, eine milde Konsequenz per Szene verursachen, wenn mit einer Nahkampfwaffe gekämpft wird.
+
+**Wie am Schießplatz: anvisieren, Luft anhalten, abdrücken**  
+Erhalte +3 auf einen Angriff mit Schieß, wenn eine Feuerwaffe verwendet wird, wenn du deinen Aspekt *Einfach gestrickt und geradlinig* tagst und einen Fate-Punkt zahlst.
+
 
 # Damage & Consequences
 
@@ -63,14 +71,15 @@ Sucht in [[Rudolf Kern]] und [[Leopold Friedenstahl]] eine Vaterfigur, weil der 
 * Mutter sehr aufklärerisch unterwegs, deswegen die meiste Zeit auf dem Landsitz der Familie einquartiert
 * Vater immer sehr distanziert
 
-# Spielinformationen
+# Sessionnotes
 
-## 2017-04-25 Session
+## 2017-04-25
 
 * Mag zu meiner Freundin nach Deutschland, treffen uns dann in Weimar
 * Überqueren von Heiterwang aus über das Säulinghaus über die Säulingwiese nach Neuschwanstein, um die Grenze zu überqueren
+* 
 
-## 2017-02-27 Session
+## 2017-02-27
 
 * Opfer der ganzen Story
   * Adenatz, Direktor vom Polytechnikum, tot
@@ -83,11 +92,11 @@ Sucht in [[Rudolf Kern]] und [[Leopold Friedenstahl]] eine Vaterfigur, weil der 
   	* Motor nicht untersucht
 * 10-20 Minuten für Sabotage
 
-## 2016-11-10 Session
+## 2016-11-10
 
 * Habe M1912 & M1904, Untersuchungskoffer, Friedenstahlkit mit
 
-## 2016-08-07 Session
+## 2016-08-07
 
 * Name von Wallners geheimem Treffen: Gustav oder in Coleur *Vercingetorix*
 
