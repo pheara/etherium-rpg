@@ -4,7 +4,7 @@
 * Burschenname: **Grautvornix**, Mitglied der *Akademische Burschenschaft Markomannia zu Wien*
 * Rang: **Fähnrich**
 * Spieler: **bobschi**
-* Refresh: **11**
+* Refresh: **9**
 * Alter: **18**
 * Größe: **192cm**
 
@@ -38,7 +38,6 @@ Erfahrener Duellist, eine milde Konsequenz per Szene verursachen, wenn mit einer
 
 **Wie am Schießplatz: anvisieren, Luft anhalten, abdrücken**  
 Erhalte +3 auf einen Angriff mit Schieß, wenn eine Feuerwaffe verwendet wird, wenn du deinen Aspekt *Einfach gestrickt und geradlinig* tagst und einen Fate-Punkt zahlst.
-
 
 # Damage & Consequences
 
