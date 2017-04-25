@@ -67,7 +67,8 @@ Sucht in [[Rudolf Kern]] und [[Leopold Friedenstahl]] eine Vaterfigur, weil der 
 
 ## 2017-04-25 Session
 
-
+* Mag zu meiner Freundin nach Deutschland, treffen uns dann in Weimar
+* Überqueren von Heiterwang aus über das Säulinghaus über die Säulingwiese nach Neuschwanstein, um die Grenze zu überqueren
 
 ## 2017-02-27 Session
 
