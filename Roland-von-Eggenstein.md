@@ -37,7 +37,7 @@
 # Damage & Consequences
 
 1:  
-2: shocked 
+2: shocked   
 3:   
 4: 
 
