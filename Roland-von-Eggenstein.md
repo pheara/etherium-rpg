@@ -9,8 +9,14 @@
 
 # Aspekte
 
+* **Scientist**
+* Seeking Archimol
 * Free from the shackles of government!
 * Weaponized disappointment
+
+# Troubles
+
+* ...
 
 # Fertigkeiten
 
@@ -31,7 +37,7 @@
 # Damage & Consequences
 
 1:  
-2:  
+2: shocked   
 3:   
 4: 
 
