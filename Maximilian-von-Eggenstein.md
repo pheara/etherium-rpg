@@ -8,6 +8,8 @@
 * Alter: **18**
 * Größe: **192cm**
 
+* Aktuelle Fate Points: **1**
+
 # Aspekte
 
 * Konzept: **Fünf Minuten vor der Zeit ist des Soldaten Pünktlichkeit**  
@@ -41,17 +43,27 @@ Erhalte +3 auf einen Angriff mit Schieß, wenn eine Feuerwaffe verwendet wird, w
 
 # Damage & Consequences
 
+## Damage
+
 1:  
 2:  
 3:   
-4: 
+4: x 
+
+## Consequences
+
+2: Streifschuss
+4:
+6:
+
+## State
 
 # Beziehungen zu Charakteren aus der Party
 
 * Cousin von [[Roland von Eggenstein]]
 * Bundesbruder von [[Hubert von Wallner]]
 * Kennt [[Kamilla van Tan]] von der bedauerlichen Geschichte
-* Adjutant von Leutnant [[Leopold Friedenstahl]]
+* Adjutant von Hauptmann [[Leopold Friedenstahl]]
 
 # Inventar
 
