@@ -2,7 +2,7 @@
 
 * Name: **Maximilian von Eggenstein**
 * Burschenname: **Grautvornix**, Mitglied der *Akademische Burschenschaft Markomannia zu Wien*
-* Rang: **Fähnrich**
+* Rang: **Leutnant**
 * Spieler: **bobschi**
 * Refresh: **9**
 * Alter: **18**
