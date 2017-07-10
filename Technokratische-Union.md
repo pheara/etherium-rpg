@@ -1,6 +1,6 @@
 # Die Technokratische Union
 
-## Wie funktioniert die technokratische Union?
+# Wie funktioniert die technokratische Union?
 
 - Gebildet nach einer erfolgreichen 1848er Revolution; getragen von der liberalen Mittelschicht und kommunistischen Unterschicht. Durchsetzen konnte sich eher die liberale Mittelschicht.
 - Bundesländer/-staaten heißen Protektorate.
