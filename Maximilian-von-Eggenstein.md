@@ -7,7 +7,6 @@
 * Refresh: **9**
 * Alter: **18**
 * Größe: **192cm**
-
 * Aktuelle Fate Points: **1**
 
 # Aspekte
