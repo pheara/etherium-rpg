@@ -84,11 +84,15 @@ Erhalte +3 auf einen Angriff mit Schieß, wenn eine Feuerwaffe verwendet wird, w
 
 # Sessionnotes
 
+## 2017-07-11
+
+* Der österreichische Heeresnachrichtendienst möchte, dass Suasannah eine Fabriksgemeinschaft ausspioniert. Sie drohen, dass ihr Bruder Herbert sonst an die Front versetzt wird. => Stahlwerke in Weyerbrunn
+* 
+
 ## 2017-04-25
 
 * Mag zu meiner Freundin nach Deutschland, treffen uns dann in Weimar
 * Überqueren von Heiterwang aus über das Säulinghaus über die Säulingwiese nach Neuschwanstein, um die Grenze zu überqueren
-* 
 
 ## 2017-02-27
 

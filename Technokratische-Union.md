@@ -8,3 +8,4 @@
 - Konfliktpotential: Wissenschaft vs. Industrie
 - Meritokratisches Direktorat regiert die Union
 - Beirat: 33% Arbeiter_innen, 33% Unis, 33% von den Protektoraten beschickt
+
