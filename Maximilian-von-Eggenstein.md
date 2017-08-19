@@ -66,14 +66,16 @@ Erhalte +3 auf einen Angriff mit Schieß, wenn eine Feuerwaffe verwendet wird, w
 
 # Inventar
 
-* 1 Felltornister M1906  
+* 1 Waffenschein   
+* 1 Deutscher Ausweis
+* 1 Feldtornister M1906  
 * 1 Pistole Steyr M1912  
 * 1 Mannschaftssäbel M1904  
 * 1 Gewehr Mannlicher M1895 + Bajonett M1895  
 * 1 ABC-Schutzmaske für mich selbst
 * 1 ABC-Schutzmaske für Friedenstahl  
 * 1 Paar schwere Überschuhe für Friedenstahl  
-* 1 Paar schwere Kautschukhandschuhe für Friedenstahl  
+* 1 Paar schwere Kautschukhandschuhe für Friedenstahl
 
 # Background
 
@@ -83,10 +85,15 @@ Erhalte +3 auf einen Angriff mit Schieß, wenn eine Feuerwaffe verwendet wird, w
 
 # Sessionnotes
 
+## 2017-08-19
+
+* Herbert in Salzburg in der Logistik beschäftigt
+* "Die Farmer von Weymar" ist Susannahs und mein Lieblingsspiel
+* 
+
 ## 2017-07-11
 
 * Der österreichische Heeresnachrichtendienst möchte, dass Suasannah eine Fabriksgemeinschaft ausspioniert. Sie drohen, dass ihr Bruder Herbert sonst an die Front versetzt wird. => Stahlwerke in Weyerbrunn
-* 
 
 ## 2017-04-25
 
@@ -113,7 +120,6 @@ Erhalte +3 auf einen Angriff mit Schieß, wenn eine Feuerwaffe verwendet wird, w
 ## 2016-08-07
 
 * Name von Wallners geheimem Treffen: Gustav oder in Coleur *Vercingetorix*
-
 
 [skills_fight]: http://fate-srd.com/fate-core/Fight
 [skills_shoot]: http://fate-srd.com/fate-core/Shoot
