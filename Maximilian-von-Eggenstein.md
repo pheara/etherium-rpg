@@ -47,7 +47,7 @@ Erhalte +3 auf einen Angriff mit Schieß, wenn eine Feuerwaffe verwendet wird, w
 1:  
 2:  
 3:   
-4: x 
+4: x  
 
 ## Consequences
 
@@ -89,7 +89,19 @@ Erhalte +3 auf einen Angriff mit Schieß, wenn eine Feuerwaffe verwendet wird, w
 
 * Herbert in Salzburg in der Logistik beschäftigt
 * "Die Farmer von Weymar" ist Susannahs und mein Lieblingsspiel
-* 
+* Encounter
+    - offensichtlich eine k.u.k. Patrollie
+    - Round 1
+        + Van Tan: ist zu müde groß zu reagieren, und legt sich nieder
+        + Max: Spotted-Szenen-Aspekt mit Style aufgeladen (2 neue Tags)
+        + Hr. Kern: Vorteil herstellen mittels Leiche hergestellt (There's somebody in the bushes!)
+        + Friedenstahl: "In Deckung! Säbel ziehen! Versuchen leise auszuschalten!" + Macht in Deckung gehen und Säbel ziehen
+        + KUKA: zwei schlagen sich ins Unterholz
+    - Round 2
+        + Van Tan: versucht zu entdecken, wo die zwei
+        + Max: "Lang lebe die Kaiserin! Wir kämpfen für die selbe Seite! Dies ein österreichischer Offizierssäbel!"; stiftet Verwirrung
+        + Hr. Kern: versucht die zwei verschwundenen Soldaten zu entdecken (verwendet einen Tag auf Spotted Apsekt, deckt einen auf)
+        + Friedenstahl: "Hauptmann Friedenstahl hier! Bin ein Held des neuen Marktes!"; will Gegner dazu bringen, nicht zu kämpfen
 
 ## 2017-07-11
 
