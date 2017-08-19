@@ -7,7 +7,7 @@
 * Refresh: **9**
 * Alter: **18**
 * Größe: **192cm**
-* Aktuelle Fate Points: **1**
+* Aktuelle Fate Points: **9**
 
 # Aspekte
 
@@ -51,8 +51,8 @@ Erhalte +3 auf einen Angriff mit Schieß, wenn eine Feuerwaffe verwendet wird, w
 
 ## Consequences
 
-2: Streifschuss
-4:
+2: Streifschuss  
+4:  
 6:
 
 ## State
