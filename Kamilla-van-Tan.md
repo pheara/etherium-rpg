@@ -1,7 +1,7 @@
 * Name: **Kamilla van Tan**
 * Rang: **Zivilistin**
 * Spielerin: **sabrina**
-* Refresh: **11**
+* Refresh: **8**
 * Alter: **25**
 * Größe: **174cm**
 
