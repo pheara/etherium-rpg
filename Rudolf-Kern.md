@@ -58,7 +58,7 @@
 * Physical Stress Boxes: [ ] [ ] [ ]
 * Mental Stress Boxes: [ ] [ ] [ ]
 * mild consequence:
-* moderate consequence: durchschuss in der rechten schulter
+* moderate consequence: rechter Arm in der Schlinge
 * severe consequence:
 
 ## Stunts
