@@ -1,49 +1,48 @@
-* Name: **Leopold Friedenstahl**
-* Rang: **Hauptmann**
+* Name: **Leopold "Hauptmann" Friedenstahl**
+* Rang: **Ex-Hauptmann**
 * Spieler: **frede**
 * Refresh: **6**
 * Alter: **23**
 * Größe: **185cm**
 
-# New and Improved Friedenstahl (wip)
+# New and Improved Friedenstahl (2.1)
 
 ## Aspekte
 
-* Konzept: **[blank] Revolutionär**  
+* Konzept: **desillusionierter Scharfschütze**  
 
-* Aspekt/Background: **Ex-Offizier des kkawt**  
-* Dilemma: **old rabbits die hard**  
-* Aspekt: **Ich seh die Welt mit neuen Augen**  
-Das rechte Auge ist mittlerweile ein Etheriumauge.  
+* Aspekt/Background: **Ex-Hauptmann der kkAWT-Ethriumjäger**  
+* Dilemma: **Old habits die hard**  
+* Aspekt: **Ich seh die Welt mit neuem Auge**  
+Das rechte Auge ist mittlerweile ein Etheriumauge.   
 * Aspekt: **Ordnung, Sauberkeit und Disziplin**  
 Lieblingsworte meines "Mentors" in der Ausbildung.  
 
 
 ## Stunts (old rules/subject to change)
-* Corner of my Eye (Alterness) +2 shifts für passive Wahrnehmung
+* Danger Sense. You have an almost preternatural capacity for detecting danger. Your Notice skill works unimpeded by conditions like total concealment, darkness, or other sensory impairments in situations where someone or something intends to harm you.
 * Indomitable. (Will) +2 to defend against Provoke attacks specifically related to intimidation and fear.  
 * Pin Them Down (Shoot) Aiming Aspekt kann nicht entfernt werden. +1 border difficulty für das Ziel.
 * Swift and Silent (Stealth) bis zu -2 difficulty für schnelles Schleichen
 * Ethrium Eye - nach den Gadgets and Gear Regeln  
   Aspects:  
-  Function: Vision Enhancement  
-  Flaw: Has a mind of its own  
-  Stunts: I See You! - Spend 1 Fate Point to get +2 to create an advantage regarding (unnatural/extraordinary) vision: Spotting someone hidden, Seeing through walls/solid objects, Someone sneaking up from behind, etc.  
-
+  Function: Soul Vision...  
+  Flaw: ...but does it have a body?    
+  
 ## Fertigkeiten 
 
-5:  
-4: Shoot  
-3: Will, Athletics, Physique  
-2: Notice, Stealth, Scholarship, Provoke, Investigate  
-1: Drive, Contacts, Resources, Fight, Rapport
+5: Shoot 
+4: Will  
+3: Physique, Scholarship, Athletics   
+2: Notice, Stealth, Investigate  
+1: Engineering, Contacts, Fight, Drive
 
 (Max 28)   
 
 ## Damage & Consequences
 
-Physical: 3  
-Mental: 3   
+Physical: 4  
+Mental: 4   
 
 Mild:  
 Moderate:  
