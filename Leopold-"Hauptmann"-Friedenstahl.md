@@ -31,7 +31,7 @@ Lieblingsworte meines "Mentors" in der Ausbildung.
   
 ## Fertigkeiten 
 
-5: Shoot 
+5: Shoot  
 4: Will  
 3: Physique, Scholarship, Athletics   
 2: Notice, Stealth, Investigate  
